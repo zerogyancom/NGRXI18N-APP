@@ -1,0 +1,144 @@
+[
+   
+    {
+        "bannerLd": {
+          "title": "Check-in online",
+          "subTitle": "Riferimento della prenotazione:",
+          "description": "Migliora la tua esperienza di viaggio e risparmia tempo in aeroporto effettuando il check-in online. Scegli il posto, stampa la carta d'imbarco e usa i banchi del check-in veloce in aeroporto per registrare comodamente il tuo bagaglio. Assicurati di avere i passaporti e i visti per tutti i passeggeri specificati nella tua prenotazione.",
+          "imagePath": "assests/images/bg-main-03-mobile.png"
+        },
+        "checkinLanding": {
+          "title": "Seleziona i passeggeri:",
+          "passHead": "Passeggero",
+          "selectAllName": "Seleziona tutti",
+          "confirmDescription": "Ho il consenso di tutti i passeggeri inclusi in questa prenotazione a effettuare il check-in. Confermo che tutte le informazioni fornite sono corrette e comprendo che fornire informazioni inesatte porterà alla negazione dell'imbarco o dell'ingresso al controllo immigrazione. ",
+          "nextBtnName": "Check-in",
+          "backBtn": "Indietro"
+        },
+        "checkinGridLd": {
+          "checkBoxName": "Seleziona",
+          "checkBoxSelectedName": "Selezionata",
+          "statusCheckedIn": "Check-in effettuato",
+          "statusOpen": "Check-in non effettuato",
+          "statusBlocked": "Impossibile effettuare il check-in online. Ti preghiamo di recarti ai banchi del check-in in aeroporto.",
+          "singleConfirmation" : "Confermo che tutte le informazioni fornite sono corrette e comprendo che fornire informazioni inesatte potrebbe comportare la negazione dell'imbarco o dell'ingresso al controllo immigrazione.",
+          "checkInEnabledError" : "Seleziona il passeggero per cui desideri effettuare il check-in.",
+          "consonentError" : "Seleziona la casella di spunta per prestare il tuo consenso. ",
+          "errorTitle": "Visualizza dettagli"
+          
+        },
+        "breadCrumbLd": {
+          "dgoods": "Merci pericolose",
+          "confirm": "Conferma ",
+          "flight": "Volo",
+          "passenger": "Passeggero"
+        },
+        "partialCheckin": {
+          "thanks": "Organizza il tuo viaggio perfetto",
+          "updateBooking": "Modifica i dati del viaggio, effettua l'upgrade per il tuo volo, acquista bagaglio extra e molto altro ancora.",
+          "updateCheckin": "Ricevi la tua carta d'imbarco, seleziona il tuo posto, ottieni le etichette per il bagaglio, prenota soggiorni in hotel, noleggia un'auto e molto altro ancora.",
+          "checkin": "Hai già effettuato il check-in?",
+          "manage": "Manage this booking",
+          "view": "Visualizza altre prenotazioni",
+          "prepare": "Prepara il tuo viaggio"
+      },
+        "checkinConfirmCTA": {
+          "subTitle": "Passi successivi:",
+          "printPassLabel": "Scarica o stampa la carta d'imbarco",
+          "printPassToolTip": "Scarica o stampa la carta d'imbarco",
+          "passEmailLabel": "Invia la carta d'imbarco per e-mail",
+          "passEmailToolTip": "Invia la carta d'imbarco per e-mail",
+          "setMapLabel": "Modifica la poltrona",
+          "setMapToolTip": "Modifica la poltrona",
+          "cancelChkInLabel": "Annulla il check-in",
+          "cancelToolTip": "Annulla il check-in",
+          "manageBkgLabel": "Gestisci la prenotazione",
+          "manageBkgToolTip": "Gestisci la prenotazione",
+          "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+          "viewBkgLabel": "Visualizza altre prenotazioni",
+          "viewBkgToolTip": "Visualizza altre prenotazioni",
+          "viewPassLabel": "Visualizza o scarica la carta d'imbarco",
+          "passSmsLabel": "Invia la carta d'imbarco per SMS",
+          "passSmsToolTip": "Invia la carta d'imbarco per SMS",
+          "manageBtLabel": "Gestisci le etichette bagaglio",
+          "manageBtToolTip": "Gestisci le etichette bagaglio",
+          "addWltLabel": "Aggiungi a Wallet",
+          "addWltToolTip": "Aggiungi a Wallet",
+          "addWltDesc": "Aggiungi la tua carta d'imbarco a Wallet (dispositivi Apple).",
+          "addWltAllLabel": "Aggiungi tutte",
+          "addWltPassenger": "Passeggero",
+          "addWltTitle": "Aggiungi a Wallet",
+          "addWltProcess": "Elaborazione in corso...",
+          "bookingRef": "Riferimento della prenotazione:",
+          "manageBkgEditor": "Gestisci la prenotazione  ",
+          "title": "Grazie per aver effettuato il check-in. Non vediamo l'ora di darti il benvenuto a bordo.",
+          "checkinOTherFlight" : "Esegui il check-in per il tuo prossimo volo",
+          "checkinOTherPax" : "Esegui il check-in per altri passeggeri",
+          "booking": "Check-in"
+        },
+        "passengerGridLd": {
+          "ticketName": "Biglietto:"
+        },
+        "printPassCC": {
+          "printPassTitle": "Scarica o stampa la carta d'imbarco",
+          "printPassDesc": "Salva una copia della tua carta d'imbarco oppure stampala.",
+          "printPassPassenger": "Passeggero",
+          "printPassPrint": "Carta d'imbarco",
+          "printPassDwldLabel": "Scarica",
+          "printPassDwnldAllLabel": "Scarica tutte",
+          "printProcess": "Elaborazione in corso..."
+        },
+        "emailPassCC": {
+          "emailPassTitle": "Invia la carta d'imbarco per e-mail",
+          "emailPassDesc": "Inserisci il tuo indirizzo e-mail per ricevere una copia della carta d'imbarco.",
+          "emailPassPassenger": "Passeggero",
+          "emailPassEmail": "Indirizzo e-mail",
+          "emailPassInputTitle": "Indirizzo e-mail",
+          "emailPassCBText": "Utilizza questo indirizzo e-mail per tutti i passeggeri.",
+          "emailPassCTALabel": "Invia la carta d'imbarco",
+          "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+          "emailProcess": "Invio in corso…",
+          "emailFieldError": "Inserisci il tuo indirizzo e-mail.",
+          "confirmationPassAvailable":"Documento di conferma disponibile",
+          "EMAIL_PASS_SUCCESS":"E-mail inviata con successo.",
+          "EMAIL_PASS_FAILURE":"Si è verificato un errore durante l'invio dell'e-mail. Riprova."
+          
+          
+        },
+        "smsPassCC": {
+          "smsPassTitle": "Invia la carta d'imbarco al tuo smartphone",
+          "smsPassDesc": "Inserisci il tuo numero di cellulare per ricevere una copia della carta d'imbarco.",
+          "smsPassPasseger": "Passeggero",
+          "smsPassCountry": "Paese/regione in cui è registrato il telefono cellulare",
+          "smsPassMobile": "Numero di cellulare (senza prefisso internazionale)",
+          "smsPassCountryPh": "Paese/regione",
+          "smsPassMobilePH": "Numero di cellulare",
+          "smsPassCBText": "Utilizza questo numero di cellulare per tutti i passeggeri.",
+          "smsPassCTALabel": "Invia un SMS",
+          "smsIsdFieldError": "Seleziona il paese/regione in cui è registrato il numero di cellulare.",
+          "smsNumFieldError": "Inserisci un numero di cellulare valido, senza prefisso internazionale o caratteri speciali.",
+          "smsPassProcess": "Invio in corso…",
+          "confirmationPassAvailable":"Documento di conferma disponibile",
+          "SMS_PASS_SUCCESS":"SMS inviato con successo.",
+          "SMS_PASS_FAILURE":"Si è verificato un errore durante l'invio dell'SMS. Riprova."
+          
+          
+        },
+        "cancelChkInCC": {
+          "cancelChkInTitle": "Annulla il check-in",
+          "cancelChkInDesc": "Annulla il check-in per i seguenti passeggeri:",
+          "cancelChkInPasseger": "Passeggero",
+          "cancelChkInConfirm": "Confermo di voler annullare il check-in per il(i) passeggero(i) selezionato(i).",
+          "cancelChkInCTALabel": "Continua",
+          "cancelChkInProcess": "Elaborazione in corso...",
+          "cannotCancelCheckIn": "I passeggeri i cui bagagli sono stati accettati non possono annullare il loro check-in."
+        },
+        "ECONOMY" :"Economy",
+        "BUSINESS" :"Business",
+        "FIRST" :"First",
+        "ADULT" :"Adulto",
+        "INFANT" :"Neonato",
+        "CHILD" :"Bambino"
+      }
+      
+    ]  

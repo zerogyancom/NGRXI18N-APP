@@ -1,0 +1,146 @@
+[
+   
+    {
+        "bannerLd": {
+            "description": "Enhance your travel experience and save time at the airport by checking-in online. Choose your seat, print your boarding pass, and use the Fast Bag Drop counters at the airport to check in your baggage with ease. Ensure you have the passport and visa information ready for all passengers in your booking.",
+            "imagePath": "assests/images/bg-main-03-mobile.png",
+            "subTitle": "Booking reference:",
+            "title": "Online check-in",
+            "titleAccessibility":"Select passengers and flights - Qatar Airways"
+        },
+        "breadCrumbLd": {
+            "confirm": "Confirmation",
+            "dgoods": "Dangerous goods",
+            "flight": "Flight",
+            "passenger": "Passenger"
+        },
+        "checkinGridLd": {
+            "checkBoxName": "Select to Check-In",
+            "checkBoxSelectedName": "Selected",
+            "statusBlocked": "Online check-in is not possible. Please proceed to the check-in counters at the airport.",
+            "statusCheckedIn": "Checked-in",
+            "statusOpen": "Not checked-in",
+            "errorTitle" : "View details"
+        },
+        "checkinLanding": {
+            "confirmDescription": "I have the agreement and the consent of all passengers included in this booking to check them in.",
+            "singleConfirmation" : "I confirm all information provided is correct and understand that any incorrect information may lead to denied boarding or denied entry at immigration checkpoints.",
+            "nextBtnName": "Continue",
+            "backBtn": "Back",
+            "passHead": "Passenger",
+            "selectAllName": "Select all",
+            "title": "Select passengers:",
+            "checkInEnabledError" : "Please select the passenger you would like to check-in.",
+            "consonentError" : "Select the checkbox to confirm your consent."
+        },
+        "passengerGridLd": {
+            "ticketName": "Ticket:"
+        },
+        "printPassCC": {
+            "printPassDesc": "Save a copy of your pass or print it.",
+            "printPassDwldLabel": "Download",
+            "printPassDwnldAllLabel": "Download all",
+            "printPassPassenger": "Passenger",
+            "printPassPrint": "Pass",
+            "printPassTitle": "Download / Print pass",
+            "printProcess": "Processing…",
+            "confirmationPassAvailable": "Confirmation Pass available",
+            "downloadLabel" : "Download",
+            "Pass" : "pass"
+        },
+        "emailPassCC": {
+            "emailPassCBText": "Use this email address for all passengers.",
+            "emailPassCTALabel": "Send  pass",
+            "emailProcess": "Sending…",
+            "emailPassDesc": "Enter your email address to receive a copy of your pass.",
+            "emailFieldError" : "Please enter your email address.",
+            "emailPassEmail": "Email address",
+            "emailPassPassenger": "Passenger",
+            "emailPassTitle": "Email pass",
+            "emailPassInputTitle": "Email address",
+            "emailPassCTALink":"https://aemuatauthor.qatarairways.com.qa/cf",
+            "EMAIL_PASS_SUCCESS" : "Email Successfully Sent",
+            "EMAIL_PASS_FAILURE" : "Your email is not sent. Please try again",
+            "confirmationPassAvailable": "Confirmation Pass available"
+        },
+        "smsPassCC": {
+            "smsPassCBText": "Use this mobile number for all passengers.",
+            "smsPassTitle" : "Send pass to mobile",
+            "smsPassCTALabel": "Send SMS",
+            "smsPassCountry": "Country/region (where mobile is registered)",
+            "smsPassCountryPh": "Country/region",
+            "smsPassMobile": "Mobile number (excluding international code)",
+            "smsPassMobilePH": "Mobile number",
+            "smsPassPasseger": "Passenger",
+            "smsPassDesc": "Please provide your mobile contact information below to receive a copy of your pass.",
+            "smsIsdFieldError" : "Please select the country/region where your mobile phone is registered.",
+            "smsNumFieldError" : "Please enter a valid mobile number, without an international code or special characters.",
+            "smsPassProcess": "Sending…",
+            "confirmationPassAvailable": "Confirmation Pass available",
+            "SMS_PASS_SUCCESS" : "Sms sent successfully",
+            "SMS_PASS_FAILURE" : "Your Sms is not sent. Please try again"
+        },
+        "cancelChkInCC":{
+            "cancelChkInTitle" : "Cancel check-in",
+            "cancelChkInCTALabel": "Continue",
+            "cancelChkInPasseger": "Passenger",
+            "cancelChkInDesc": "Cancel check-in for the following passenger(s):",
+            "cancelChkInProcess": "Processing…",
+            "cancelChkInConfirm" : "I confirm I would like to cancel check-in for the selected passenger(s).",
+            "cannotCancelCheckIn" : "Passengers whose baggage was accepted are not allowed to cancel check-in."
+        },
+        "checkinConfirmCTA": {
+            "printPassLabel": "Download/Print pass",
+            "printPassToolTip": "Download/Print pass",
+            "viewPassLabel" : "View/Download pass",
+            "passSmsLabel": "SMS pass",
+            "passSmsToolTip": "SMS pass",
+            "bookingRef": "Booking reference:",
+            "subTitle": "Next steps:",
+            "title": "Thank you for checking in. We look forward to welcoming you on board.",
+            "manageBkgEditor": "Manage booking",
+            "manageBkgLabel": "Manage booking",
+            "manageBkgToolTip": "Manage booking",
+            "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+            "manageBtLabel": "Manage baggage tags",
+            "manageBtToolTip": "Manage baggage tags",
+            "passEmailLabel": "Email pass",
+            "passEmailToolTip": "Email pass",
+            "viewBkgLabel": "View other bookings",
+            "viewBkgToolTip": "View other bookings",
+            "addWltLabel": "Add to wallet",
+            "addWltToolTip": "Add to wallet",
+            "addWltDesc": "Add your boarding pass to your Wallet (Apple devices).",
+            "addWltAllLabel": "Add all",
+            "addWltPassenger": "Passenger",
+            "addWltPrint": "",
+            "addWltTitle": "Add to wallet",
+            "addWltProcess": "Processing…",
+            "cancelChkInLabel":"Cancel check-in",
+            "cancelToolTip":"Cancel check-in",
+            "setMapLabel":"Change seat",
+            "setMapToolTip":"Change seat",
+             "checkinOTherFlight" : "Check-in for your next flight",
+             "checkinOTherPax" : "Check-in for other passenger(s)",
+             "booking": "Check in"
+        },
+        "partialCheckin": {
+            "thanks": "Plan the perfect journey",
+            "updateBooking": "Change travel dates, upgrade your flight, purchase excess baggage and more.",
+            "updateCheckin": "Receive your boarding pass, select your seat, manage baggage tags, book hotel stays, car rentals and more.",
+            "checkin": "Already checked-in?",
+            "manage": "Manage this booking",
+            "view": "View other bookings",
+            "prepare": "Prepare for your trip"
+        },
+        
+       "ECONOMY" :"Economy",
+       "BUSINESS" :"Business",
+       "FIRST" :"First",
+       "ADULT" :"Adult",
+       "INFANT" :"Infant",
+       "CHILD" :"Child"
+       
+    }
+
+]

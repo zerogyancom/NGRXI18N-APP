@@ -1,0 +1,151 @@
+[
+   
+    {
+        "bannerLd": {
+          "title": "在线值机",
+          "subTitle": "预订参考号：",
+          "description": "在线值机可以提升您的旅行体验，为您节省在机场花费的时间。您只需选择座位、打印登机牌，然后利用我们的快速行李通道轻松托运您的行李。 请务必准备好您的预订所涉及的所有乘客的护照和签证信息。",
+          "imagePath": "assests/images/bg-main-03-mobile.png"
+        },
+        "checkinLanding": {
+          "title": "选择乘客：",
+          "passHead": "乘客",
+          "selectAllName": "选择所有",
+          "confirmDescription": "我已获得本预订涵盖的所有乘客的同意和许可，在此前提下为其办理值机。我确认所提供的所有信息正确无误，并了解如果信息有误则可能导致被拒绝登机或在入境处被拒绝入境。 ",
+          "nextBtnName": "值机",
+          "singleConfirmation" : "我确认所提供的所有信息正确无误，并了解如果信息有误则可能导致被拒绝登机或在入境处被拒绝入境。",
+          "backBtn": "返回",
+          "checkInEnabledError" : "请选择你要办理值机的乘客。",
+          "consonentError" : "勾选复选框，以确认您的同意。"
+
+        },
+        "checkinGridLd": {
+          "checkBoxName": "选择",
+          "statusCheckedIn": "已值机",
+          "checkBoxSelectedName": "已选",
+          "statusOpen": "未值机",
+          "statusBlocked": "无法进行在线值机。请前往机场的值机柜台办理值机手续。",
+          "errorTitle": "查看详情"
+          
+        },
+        "breadCrumbLd": {
+          "dgoods": "危险品",
+          "confirm": "确认函 ",
+          "flight": "航班",
+          "passenger": "乘客"
+        },
+        "checkinConfirmCTA": {
+          "subTitle": "后续步骤：",
+          "printPassLabel": "下载/打印登机牌",
+          "printPassToolTip": "下载/打印登机牌",
+          "passEmailLabel": "通过电子邮件发送登机牌",
+          "passEmailToolTip": "通过电子邮件发送登机牌",
+          "setMapLabel": "更改座位",
+          "setMapToolTip": "更改座位",
+          "cancelChkInLabel": "取消值机",
+          "cancelToolTip": "取消值机",
+          "manageBkgLabel": "管理预订",
+          "manageBkgToolTip": "管理预订",
+          "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+          "viewBkgLabel": "查看其他预订",
+          "viewBkgToolTip": "查看其他预订",
+          "viewPassLabel": "查看/下载登机牌",
+          "passSmsLabel": "通过手机短信发送登机牌",
+          "passSmsToolTip": "通过手机短信发送登机牌",
+          "manageBtLabel": "管理行李标签",
+          "manageBtToolTip": "管理行李标签",
+          "addWltLabel": "添加到钱包",
+          "addWltToolTip": "添加到钱包",
+          "addWltDesc": "将您的登机牌添加到“钱包”Wallet（适用于Apple设备）。",
+          "addWltAllLabel": "添加所有",
+          "addWltPassenger": "乘客",
+          "addWltTitle": "添加到钱包",
+          "addWltProcess": "处理中…",
+          "bookingRef": "预订参考号：",
+          "manageBkgEditor": "管理预订   ",
+          "title": "谢谢您办理值机。我们在飞机上恭候您的光临。",
+          "checkinOTherFlight" : "为下一航班办理值机",
+          "checkinOTherPax" : "为其他乘客办理值机",
+          "booking": "值机"
+        },
+        "passengerGridLd": {
+          "ticketName": "机票："
+        },
+        "printPassCC": {
+          "printPassTitle": "下载 / 打印登机牌",
+          "printPassDesc": "保存您的登机牌副本或打印您的登机牌。",
+          "printPassPassenger": "乘客",
+          "printPassPrint": "登机牌",
+          "printPassDwldLabel": "下载",
+          "printPassDwnldAllLabel": "下载所有",
+          "printProcess": "处理中…",
+          "confirmationPassAvailable": "可提供确认单"
+        },
+        "emailPassCC": {
+          "emailPassTitle": "通过电子邮件发送登机牌",
+          "emailPassDesc": "输入您的电子邮件地址，用于接收您的登机牌副本。",
+          "emailPassPassenger": "乘客",
+          "emailPassEmail": "电子邮件地址",
+          "emailPassInputTitle": "电子邮件地址",
+          "emailPassCBText": "针对所有乘客使用这个电子邮件地址。",
+          "emailPassCTALabel": "发送登机牌",
+          "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+          "emailProcess": "发送中…",
+          "emailFieldError": "请输入您的电子邮件地址。",
+          "confirmationPassAvailable":"可提供确认单",
+          "EMAIL_PASS_SUCCESS":"已成功发送电子邮件。",
+          "EMAIL_PASS_FAILURE":"发送电子邮件时出错。请重试。"
+          
+        },
+        "smsPassCC": {
+          "smsPassTitle": "将登机牌发送到手机",
+          "smsPassDesc": "请在下方提供您的手机联系方式，用于接收您的登机牌副本。",
+          "smsPassPasseger": "乘客",
+          "smsPassCountry": "国家（手机登记国）",
+          "smsPassMobile": "手机号码（不含国际代码）",
+          "smsPassCountryPh": "国家",
+          "smsPassMobilePH": "手机号码",
+          "smsPassCBText": "针对所有乘客使用这个手机号码",
+          "smsPassCTALabel": "发送手机短信",
+          "smsIsdFieldError": "请选择您的手机登记的国家。",
+          "smsNumFieldError": "请输入有效的电话号码，不含国际代码或特殊字符。",
+          "smsPassProcess": "发送中…",
+          "confirmationPassAvailable":"可提供确认单",
+          "SMS_PASS_SUCCESS":"已成功发送短信。",
+          "SMS_PASS_FAILURE":"发送短信时出错。请重试。"
+          
+        },
+        "cancelChkInCC": {
+          "cancelChkInTitle": "取消值机",
+          "cancelChkInDesc": "为以下乘客取消值机：",
+          "cancelChkInPasseger": "乘客",
+          "cancelChkInConfirm": "我确认要为所选乘客取消值机。",
+          "cancelChkInCTALabel": "继续",
+          "cancelChkInProcess": "处理中…",
+          "cannotCancelCheckIn": "对于行李已被接受的乘客，不可取消值机。"
+        },
+        "partialCheckin": {
+          "thanks": "规划完美旅程",
+          "updateBooking": "更改旅行日期、升级航班舱位、购买额外行李限额，等等",
+          "updateCheckin": "接收您的登机牌、选择座位、管理行李牌、预订酒店住宿、租车，等等。",
+          "checkin": "已经办理值机？",
+          "manage": "管理预订",
+          "view": "查看其他预订",
+          "prepare": "为您的旅程做好准备"
+      },
+        "CANCEL_ACCEPTANCE_FAILED": "值机取消请求无法在线处理。请根据www.qatarairways.com/offices所示的号码联系机场票务处。",
+        "CANCEL_ACCEPTANCE_OPEN_PAX_PRESENT": "只能针对已值机乘客处理取消。",
+        "TRIP_CANCEL_TIMIE_LIMIT_REACHED": " 目前无法处理值机取消。取消值机的时限已过。",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_PRESENT": "请确保所有选中的乘客均已值机，以便继续处理您的请求。",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_INVALID": "请输入有效的电子邮件地址。",
+        "MOBILE_BOARDINGPASS_PAX_MBL_INVALID": "请输入有效的手机号码。",
+        "SESSION_TIME_OUT": "会话超时",
+        "ECONOMY":"经济舱",
+        "BUSINESS":"商务舱",
+        "FIRST":"头等舱",        
+        "ADULT" :"成人",
+        "INFANT" :"婴儿",
+        "CHILD" :"儿童"
+      
+     }
+]

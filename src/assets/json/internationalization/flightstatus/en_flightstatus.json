@@ -1,0 +1,101 @@
+[
+    {
+        "flightstatus": {
+            "flightStatus" : "Flight Status Search",
+            "search": {
+                "find": "Find Flights",
+                "origin":"From / Flight number",
+                "to": "To",
+                "dept": "Departure",
+                "nocity": "No cities matching your request",
+                "locEg": "eg: QR184 or Doha"
+            },
+            "flightList" : {
+                "setAlert": "Set Alert",
+                "watch": "Watch Live",
+                "checkin": "Check-in",
+                "call": "Call",
+                "welcome": "Welcome to ",
+                "more": "More about ",
+                "sendalert": "Send me alerts to ",
+                "dept" : "Notify me on departure",
+                "arr" : "Notify me on arrival",
+                "channel": "Notification channel:",
+                "code": "Country code:",
+                "mob" :"Mobile Number",
+                "email": "Email",
+                "lang" : "Noification language:",
+                "confirm": "Confirm",
+                "on" : "on",
+                "twit": "Connect with Twitter",
+                "con" : "Connect",
+                "flight": "Flight: ",
+                "verification":"Verification:"
+            },
+            "disclaimer":{
+                "line1":"Flight times shown are local for the corresponding city/airport.",
+                "line2":"Please note that QR flight numbers which are operated by our codeshare partners are currently not available.",
+                "line3":"Schedules are subject to change without prior notice. Flights shown do not necessarily represent all possible and additional flights available. Please contact your nearest Qatar Airways office for the latest update.",
+                "line4":"Passengers should only rely on notifications provided by the Qatar Airways flight status application. Please note that we are not responsible for information provided by third party websites."
+            },
+            "linkname" :"Discover",
+            "download":"Download",
+            "print":"Print",
+            "email":"Email",
+            "err": {
+                "msg1": "Please select the type of notification",
+                "msg2": "Please select the notification channel",
+                "msg3": "Please check the agreement policy",
+                "msg4": "Please enter the verification code",
+                "msg5": "Please enter a valid email address",
+                "msg6": "Please enter your mobile number",
+                "msg7": "Please enter your email address",
+                "msg8": "Please enter country/region code",
+                "msg9": "Please enter a valid mobile number",
+                "msg10": "Please select the notification language",
+                "msg12": "Please enter Valid From Station ex: Doha (DOH)",
+                "msg13": "Please enter Valid To Station ex: London (LHR)",
+                "msg14": "Please enter Valid Flight Number",
+                "msg15": "Please select flight route"
+            }
+        },
+        "sessionPopup":{
+            "popupTitle" : "This session has expired",
+            "homeButtonLabel" : "Back to home",
+            "popupCheckInMessage" : "Thank you for checking in for your flight. Due to inactivity, your session has expired.",
+            "popupGeneralMessage" : "Due to inactivity, your session has expired.",
+            "reloadButtonLabel" : "Reload the PNR"
+        },
+        "weather":{
+            "linkname" :"Discover"
+        },   
+        
+        "unsubscribe":{
+            "heading":"Unsubscribe for notification"
+        },
+        "loadingMessage":{
+            "msg1":"Validating your request...",
+            "msg2":"Fetching results...",
+            "msg3":"Loading results...",
+            "msg4":"Flight status not found",
+            "msg5":"Validating your request...",
+            "msg6":"Subscribing to notification...",
+            "msg7":"Alert set successfully",
+            "msg8":"Alert unsubscribed successfully",
+            "msg9":"This alert service has already been unsubscribed",
+            "msg10":"Unsubscription request failed",
+            "msg11":"Unsubscribing notification alert..."
+        },
+
+        "SCHEDULED":"Scheduled",
+        "DEPARTED" : "In flight",
+        "DIVERTED" : "Diverted",
+        "ARRIVED"   : "Arrived",
+        "RESCHEDULED" : "Rescheduled",
+        "REROUTED" : "Rerouted",
+        "CANCELLED" : "Cancelled",
+        "DELAYED" : "Delayed",
+        "LANDED" : "Landed"
+    }
+]
+

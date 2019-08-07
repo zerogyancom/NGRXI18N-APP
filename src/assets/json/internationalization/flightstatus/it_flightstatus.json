@@ -1,0 +1,35 @@
+[
+    {
+        "flightstatus": {
+            "flightStatus" : "Flight Status",
+            "search": {
+                "find": "Find Flights",
+                "origin":"Find flights by Flight number or origin*",
+                "to": "To",
+                "dept": "Departure",
+                "nocity": "No cities matching your request"
+            },
+            "flightList" : {
+                "setAlert": "Set Alert",
+                "watch": "Watch Live",
+                "checkin": "Check in",
+                "call": "Call",
+                "welcome": "Welcome to ",
+                "more": "More about ",
+                "sendalert": "Send me alerts to ",
+                "dept" : "Noify me on departure",
+                "arr" : "Noify me on arrival",
+                "channel": "Notification channel:",
+                "code": "Country code:",
+                "mob" :"Mobile Number",
+                "email": "Email",
+                "lang" : "Noification language:",
+                "confirm": "Confirm",
+                "on" : "on",
+                "twit": "Connect with Twitter",
+                "con" : "Connect",
+                "flight": "Flight: "
+            }
+        }
+    }
+]

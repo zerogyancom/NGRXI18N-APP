@@ -1,0 +1,151 @@
+[
+   
+    {
+        "bannerLd": {
+          "title": "Check-in on-line",
+          "subTitle": "Referência da reserva:",
+          "description": "Torne sua experiência de viagem mais agradável e economize tempo no aeroporto fazendo o check-in on-line. Escolha o seu assento, imprima o cartão de embarque e use os balcões de entrega rápida de bagagem no aeroporto para despachar a bagagem com tranquilidade.  Certifique-se de que tem os passaportes e vistos de todos os passageiros de sua reserva.",
+          "imagePath": "assests/images/bg-main-03-mobile.png"
+        },
+        "checkinLanding": {
+          "title": "Selecionar os passageiros:",
+          "passHead": "Passageiro",
+          "selectAllName": "Selecionar todos",
+          "confirmDescription": "Tenho a aprovação de todos os passageiros desta reserva para fazer o check-in deles. Confirmo que todas as informações fornecidas são corretas e entendo que qualquer informação incorreta pode levar à recusa do embarque ou entrada recusada nos pontos de controle de imigração. ",
+          "singleConfirmation" : "Confirmo que todas as informações fornecidas são corretas e entendo que qualquer informação incorreta pode levar à recusa do embarque ou de entrada nos pontos de controle de imigração.",
+          "nextBtnName": "Check-in",
+          "backBtn": "Retornar",
+          "checkInEnabledError" : "Selecione o passageiro para fazer o check-in.",
+            "consonentError" : "Selecione a caixa de seleção para confirmar a autorização. "
+        },
+        "checkinGridLd": {
+          "checkBoxName": "Selecionar",
+          "checkBoxSelectedName": "Selecionado  ",
+          "statusCheckedIn": "Fez o check-in",
+          "statusOpen": "Não fez o check-in",
+          "statusBlocked": "Não é possível fazer o check-in on-line. Dirija-se aos balcões de check-in no aeroporto.",
+          "errorTitle": "Visualizar detalhes"
+        },
+        "breadCrumbLd": {
+          "dgoods": "Produtos perigosos",
+          "confirm": "Confirmação ",
+          "flight": "Voo",
+          "passenger": "Passageiro"
+        },
+        "checkinConfirmCTA": {
+          "subTitle": "Próximos passos:",
+          "printPassLabel": "Baixar/Imprimir o cartão de embarque",
+          "printPassToolTip": "Baixar/Imprimir o cartão de embarque",
+          "passEmailLabel": "Enviar o cartão de embarque por e-mail",
+          "passEmailToolTip": "Enviar o cartão de embarque por e-mail",
+          "setMapLabel": "Alterar assento",
+          "setMapToolTip": "Alterar assento",
+          "cancelChkInLabel": "Cancelar o check-in",
+          "cancelToolTip": "Cancelar o check-in",
+          "manageBkgLabel": "Gerenciar a reserva",
+          "manageBkgToolTip": "Gerenciar a reserva",
+          "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+          "viewBkgLabel": "Visualizar outras reservas",
+          "viewBkgToolTip": "Visualizar outras reservas",
+          "viewPassLabel": "Visualizar/Baixar o cartão de embarque",
+          "passSmsLabel": "Cartão de embarque pelo SMS",
+          "passSmsToolTip": "Cartão de embarque pelo SMS",
+          "manageBtLabel": "Gerenciar etiquetas de bagagem",
+          "manageBtToolTip": "Gerenciar etiquetas de bagagem",
+          "addWltLabel": "Adicionar à Wallet",
+          "addWltToolTip": "Adicionar à Wallet",
+          "addWltDesc": "Adicione o seu cartão de embarque à sua Wallet (dispositivos Apple).",
+          "addWltAllLabel": "Adicionar tudo",
+          "addWltPassenger": "Passageiro",
+          "addWltTitle": "Adicionar à Wallet",
+          "addWltProcess": "Processando…",
+          "bookingRef": "Referência da reserva:",
+          "manageBkgEditor": "Gerenciar reserva   ",
+          "title": "Obrigado por ter feito o check-in. Esperamos dar-lhe as boas-vindas a bordo.",
+          "checkinOTherFlight" : "Faça o check-in do seu próximo voo",
+          "checkinOTherPax" : "Faça o check-in para outro(s) passageiro(s)",
+          "booking": "Check-in"
+        },
+        "passengerGridLd": {
+          "ticketName": "Bilhete:"
+        },
+        "printPassCC": {
+          "printPassTitle": "Baixar/Imprimir o cartão de embarque",
+          "printPassDesc": "Salve uma cópia de seu cartão de embarque ou imprima-o.",
+          "printPassPassenger": "Passageiro",
+          "printPassPrint": "Cartão de embarque",
+          "printPassDwldLabel": "Baixar",
+          "printPassDwnldAllLabel": "Baixar todos",
+          "printProcess": "Processando…"
+        },
+        "emailPassCC": {
+          "emailPassTitle": "Enviar o cartão de embarque por e-mail",
+          "emailPassDesc": "Insira o seu endereço de e-mail para receber uma cópia de seu cartão de embarque.",
+          "emailPassPassenger": "Passageiro",
+          "emailPassEmail": "Endereço de e-mail",
+          "emailPassInputTitle": "Endereço de e-mail",
+          "emailPassCBText": "Usar este endereço de e-mail para todos os passageiros.",
+          "emailPassCTALabel": "Enviar cartão de embarque",
+          "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+          "emailProcess": "Enviando…",
+          "emailFieldError": "Insira seu endereço de e-mail.",
+          "confirmationPassAvailable":"Passe de confirmação disponível",
+          "EMAIL_PASS_SUCCESS":"E-mail enviado.",
+          "EMAIL_PASS_FAILURE":"Ocorreu um erro ao enviar o e-mail. Tente novamente."
+          
+        },
+        "smsPassCC": {
+          "smsPassTitle": "Enviar cartão de embarque para o celular",
+          "smsPassDesc": "Forneça abaixo as informações de contato de seu celular para receber uma cópia de seu cartão de embarque.",
+          "smsPassPasseger": "Passageiro",
+          "smsPassCountry": "País/região (onde seu telefone celular está registrado)",
+          "smsPassMobile": "Número do celular (sem o DDI)",
+          "smsPassCountryPh": "País/Região",
+          "smsPassMobilePH": "Número do celular",
+          "smsPassCBText": "Usar este número de celular para todos os passageiros.",
+          "smsPassCTALabel": "Enviar SMS",
+          "smsIsdFieldError": "Por favor selecione o País/Região onde seu telefone celular está registrado.",
+          "smsNumFieldError": "Insira um número de celular válido, sem o código DDI ou caracteres especiais.",
+          "smsPassProcess": "Enviando…",
+          "confirmationPassAvailable":"Passe de confirmação disponível",
+          "SMS_PASS_SUCCESS":"SMS enviado.",
+          "SMS_PASS_FAILURE":"Ocorreu um erro ao enviar o SMS. Tente novamente."
+          
+        },
+        "cancelChkInCC": {
+          "cancelChkInTitle": "Cancelar o check-in",
+          "cancelChkInDesc": "Cancelar o check-in para o(s) seguinte(s) passageiro(s):",
+          "cancelChkInPasseger": "Passageiro",
+          "cancelChkInConfirm": "Confirmo que quero cancelar o check-in do(s) passageiro(s) selecionado(s).",
+          "cancelChkInCTALabel": "Continuar",
+          "cancelChkInProcess": "Processando…",
+          "cannotCancelCheckIn": "Passageiros cujas bagagens foram aceitas não podem cancelar o check-in."
+        },
+        "partialCheckin": {
+          "thanks": "Planeje a jornada perfeita",
+          "updateBooking": "Altere as datas de viagem, faça upgrade de voo, compre excesso de bagagem e muito mais.",
+          "updateCheckin": "Receba o cartão de embarque, escolha o assento, controle as etiquetas de bagagem, reserve estadias em hotel, alugue veículos e muito mais.",
+          "checkin": "O check-in já está feito?",
+          "manage": "Gerenciar esta reserva",
+          "view": "Visualizar outras reservas",
+          "prepare": "Prepare-se para a sua viagem"
+      },
+        "CANCEL_ACCEPTANCE_FAILED": "O cancelamento do check-in não pode ser feito on-line. Entre em contato com a loja de bilhetes do aeroporto pelo número listado no www.qatarairways.com/offices.",
+        "CANCEL_ACCEPTANCE_OPEN_PAX_PRESENT": "O cancelamento somente pode ser processado para passageiros que fizeram o check-in.",
+        "TRIP_CANCEL_TIMIE_LIMIT_REACHED": " O cancelamento do check-in não pode ser feito no momento. O prazo para o cancelamento do check-in expirou.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_PRESENT": "Para prosseguir com a sua solicitação, assegure-se de que todos os passageiros selecionados fizeram o check-in.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_INVALID": "Insira um endereço de e-mail válido.",
+        "MOBILE_BOARDINGPASS_PAX_MBL_INVALID": "Insira um número de celular válido.",
+        "SESSION_TIME_OUT": "Sessão encerrada.",
+        "ECONOMY":"Econômica",
+        "BUSINESS":"Executiva",
+        "FIRST":"Primeira",
+        
+        "ADULT" :"Adulto",
+        "INFANT" :"Colo",
+        "CHILD" :"Criança"
+
+         
+      }
+    
+]

@@ -1,0 +1,141 @@
+[
+   
+    {
+        "bannerLd": {
+          "title": "オンライン・チェックイン",
+          "subTitle": "予約照会番号：",
+          "description": "オンライン・チェックインをご利用いただくと、空港での時間を節約でき、より快適なご旅行をご体験いただけます。座席の指定と搭乗券の印刷を行い、お手荷物を空港のファスト・バッグドロップのカウンターでお預けになるだけです。 ご予約いただいている全搭乗者のパスポートと査証情報をお手元にご用意ください。",
+          "imagePath": "assests/images/bg-main-03-mobile.png"
+        },
+        "checkinLanding": {
+          "title": "搭乗者の選択：",
+          "passHead": "搭乗者",
+          "selectAllName": "すべてを選択",
+          "confirmDescription": "この予約に含まれている全搭乗者からチェックイン手続きを行う同意を得ています。提供された情報がすべて正しいことを確認しました。間違った情報があった場合、搭乗できないことや入国審査で入国を拒否されることがあると理解しています。 ",
+          "nextBtnName": "チェックイン",
+          "backBtn": "戻る",
+          "checkInEnabledError" : "搭乗手続きをする搭乗者を選択してください。",
+          "singleConfirmation" : "提供された情報がすべて正しいことを確認しました。間違った情報があった場合、搭乗できないことや入国審査で入国を拒否されることがあると理解しています。",
+            "consonentError" : "ボックスをチェックして同意を確認してください。 "
+        },
+        "checkinGridLd": {
+          "checkBoxName": "選択する",
+          "statusCheckedIn": "チェックイン済み",
+          "checkBoxSelectedName": "選択済み",
+          "statusOpen": "チェックイン手続き待ち",
+          "statusBlocked": "オンライン・チェックインをすることができません。空港のチェックインカウンターにお越しください。",
+          "errorTitle": "詳細を表示"
+        },
+        "breadCrumbLd": {
+          "dgoods": "危険物",
+          "confirm": "確定内容 ",
+          "flight": "便名",
+          "passenger": "搭乗者"
+        },
+        "checkinConfirmCTA": {
+          "subTitle": "次のステップ：",
+          "printPassLabel": "搭乗券のダウンロード／印刷",
+          "printPassToolTip": "搭乗券をダウンロード／印刷します",
+          "passEmailLabel": "搭乗券のメール送信",
+          "passEmailToolTip": "搭乗券をメール送信します",
+          "setMapLabel": "座席の変更",
+          "setMapToolTip": "座席を変更します",
+          "cancelChkInLabel": "チェックインのキャンセル",
+          "cancelToolTip": "チェックインをキャンセルします",
+          "manageBkgLabel": "予約管理",
+          "manageBkgToolTip": "予約を管理します",
+          "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+          "viewBkgLabel": "他の予約を表示",
+          "viewBkgToolTip": "他の予約を表示します",
+          "viewPassLabel": "搭乗券の表示／ダウンロード",
+          "passSmsLabel": "SMS搭乗券",
+          "passSmsToolTip": "搭乗券をSMS送信します",
+          "manageBtLabel": "手荷物タグ管理",
+          "manageBtToolTip": "手荷物タグを管理します",
+          "addWltLabel": "Walletに追加する",
+          "addWltToolTip": "Walletに追加します",
+          "addWltDesc": "Wallet（Appleデバイス）に搭乗券を追加します。",
+          "addWltAllLabel": "すべて追加する",
+          "addWltPassenger": "搭乗者",
+          "addWltTitle": "Walletに追加する",
+          "addWltProcess": "処理中…",
+          "bookingRef": "予約照会番号：",
+          "manageBkgEditor": "予約管理   ",
+          "title": "チェックイン手続きを行っていただき、ありがとうございました。機内にて心よりお待ちしております。",
+          "checkinOTherFlight" : "次のフライトのチェックイン",
+          "checkinOTherPax" : "他の搭乗者のチェックイン",
+          "booking": "チェックイン"
+        },
+        "passengerGridLd": {
+          "ticketName": "航空券："
+        },
+        "printPassCC": {
+          "printPassTitle": "搭乗券のダウンロード／印刷",
+          "printPassDesc": "搭乗券を保存するか印刷してください。",
+          "printPassPassenger": "搭乗者",
+          "printPassPrint": "搭乗券",
+          "printPassDwldLabel": "ダウンロード",
+          "printPassDwnldAllLabel": "すべてダウンロード",
+          "printProcess": "処理中…"
+        },
+        "emailPassCC": {
+          "emailPassTitle": "搭乗券のメール送信",
+          "emailPassDesc": "搭乗券を受信するメールアドレスを入力してください。",
+          "emailPassPassenger": "搭乗者",
+          "emailPassEmail": "メールアドレス",
+          "emailPassInputTitle": "メールアドレス",
+          "emailPassCBText": "すべての搭乗者にこのメールアドレスを使用する。",
+          "emailPassCTALabel": "搭乗券を送信",
+          "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+          "emailProcess": "送信中…",
+          "emailFieldError": "メールアドレスを入力してください。",
+          "confirmationPassAvailable":"予約確認券の発券可",
+          "EMAIL_PASS_SUCCESS":"メールは正常に送信されました。",
+          "EMAIL_PASS_FAILURE":"メール送信中にエラーが発生しました。もう一度やり直してください。"
+          
+        },
+        "smsPassCC": {
+          "smsPassTitle": "搭乗券をモバイルに送信",
+          "smsPassDesc": "搭乗券を受け取るためのモバイルの連絡先情報を下にご入力ください。",
+          "smsPassPasseger": "搭乗者",
+          "smsPassCountry": "国/地域（携帯電話が登録されている国/地域）",
+          "smsPassMobile": "携帯電話番号（国番号を除く）",
+          "smsPassCountryPh": "国/地域",
+          "smsPassMobilePH": "携帯電話番号",
+          "smsPassCBText": "すべての搭乗者にこの携帯電話番号を使用する。",
+          "smsPassCTALabel": "SMSを送信する",
+          "smsIsdFieldError": "携帯電話が登録されている国/地域を選択してください。",
+          "smsNumFieldError": "国番号や特殊記号を除いた有効な携帯電話番号を入力してください。",
+          "smsPassProcess": "送信中…",
+          "confirmationPassAvailable":"予約確認券の発券可",
+          "SMS_PASS_SUCCESS":"SMSは正常に送信されました。",
+          "SMS_PASS_FAILURE":"SMS送信中にエラーが発生しました。もう一度やり直してください。"
+          
+        },
+        "cancelChkInCC": {
+          "cancelChkInTitle": "チェックインのキャンセル",
+          "cancelChkInDesc": "次の搭乗者のチェックインをキャンセル：",
+          "cancelChkInPasseger": "搭乗者",
+          "cancelChkInConfirm": "選択された搭乗者のチェックインのキャンセルを希望します。",
+          "cancelChkInCTALabel": "続行",
+          "cancelChkInProcess": "処理中…",
+          "cannotCancelCheckIn": "すでに手荷物をお預かりしている搭乗者のチェックインをキャンセルすることはできません。"
+        },
+        "partialCheckin": {
+          "thanks": "最高の旅をプランニング",
+          "updateBooking": "日程の変更、フライトのアップグレード、超過手荷物の購入などさまざまに予約を管理できます。",
+          "updateCheckin": "搭乗券の受け取り、お座席の指定、手荷物タグの管理、宿泊やレンタカーの予約などができます。",
+          "checkin": "搭乗手続きが完了したら",
+          "manage": "予約管理",
+          "view": "他の予約を表示",
+          "prepare": "ご旅行の準備"
+      },"ECONOMY":"エコノミークラス",
+        "BUSINESS":"ビジネスクラス",
+        "FIRST":"ファーストクラス",
+        "ADULT" :"大人",
+        "INFANT" :"幼児",
+        "CHILD" :"小児"
+
+      
+      }
+]

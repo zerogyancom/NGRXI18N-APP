@@ -1,0 +1,152 @@
+[
+   
+    {
+        "bannerLd": {
+            "title": "Facturación en línea",
+            "subTitle": "Referencia de la reserva:",
+            "description": "Mejore su experiencia de viaje y ahorre tiempo en el aeropuerto al facturar por Internet. Escoja su asiento, imprima su tarjeta de embarque y utilice los mostradores de depósito rápido de equipaje para facturarlo cómodamente.  Asegúrese de tener la información de los pasaportes y los visados de todos los pasajeros en la reserva.",
+            "imagePath": "assests/images/bg-main-03-mobile.png"
+        },
+        "breadCrumbLd": {
+            "dgoods": "Artículos peligrosos",
+            "confirm": "Confirmación ",
+            "flight": "Vuelo",
+            "passenger": "Pasajero"
+        },
+        "checkinGridLd": {
+            "checkBoxName": "Seleccionar",
+            "checkBoxSelectedName": "Seleccionado",
+            "statusCheckedIn": "Facturado",
+            "statusOpen": "No facturado",
+            "statusBlocked": "La facturación en línea no es posible. Diríjase a los mostradores de facturación del aeropuerto.",
+            "errorTitle": "Ver información"
+        },
+        "checkinLanding": {
+            "confirmDescription": "Tengo el consentimiento de todos los pasajeros incluidos en esta reserva para facturar. Confirmo que toda la información proporcionada es correcta y comprendo que si la información es incorrecta podrá denegarse el embarque o la entrada en los puntos de control de inmigración. ",
+            "singleConfirmation" : "Confirmo que toda la información proporcionada es correcta y comprendo que si la información es incorrecta podrá denegarse el embarque o la entrada en los puntos de control de inmigración.",
+            "nextBtnName": "Facturación",
+            "backBtn": "Atrás",
+            "passHead": "Pasajero",
+            "selectAllName": "Seleccionar todo",
+            "title": "Seleccionar pasajeros:",
+            "checkInEnabledError" : "Seleccione el pasajero cuya facturación desea realizar.",
+            "consonentError" : "Seleccione la casilla de verificación para confirmar su consentimiento."
+        },
+        "passengerGridLd": {
+            "ticketName": "Billete:"
+        },
+        "printPassCC": {
+            "printPassTitle": "Descargar / Imprimir tarjeta de embarque",
+            "printPassDesc": "Guarde una copia de su tarjeta de embarque o imprímala.",
+            "printPassPassenger": "Pasajero",
+            "printPassPrint": "Tarjeta de embarque",
+            "printPassDwldLabel": "Descargar",
+            "printPassDwnldAllLabel": "Descargar todo",
+            "printProcess": "Procesando..."
+        },
+        "emailPassCC": {
+            "emailPassTitle": "Enviar tarjeta de embarque por correo electrónico",
+            "emailPassDesc": "Introduzca su dirección de correo electrónico para recibir una copia de la tarjeta de embarque.",
+            "emailPassPassenger": "Pasajero",
+            "emailPassEmail": "Dirección de correo electrónico",
+            "emailPassInputTitle": "Dirección de correo electrónico",
+            "emailPassCBText": "Usar esta dirección de correo electrónico para todos los pasajeros",
+            "emailPassCTALabel": "Enviar tarjeta de embarque",
+            "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+            "emailProcess": "Enviando...",
+            "emailFieldError": "Escriba su dirección de correo electrónico.",
+            "confirmationPassAvailable":"Tarjeta de confirmación disponible",
+            "EMAIL_PASS_SUCCESS":"Correo electrónico enviado correctamente.",
+            "EMAIL_PASS_FAILURE":"Error durante el envío del correo electrónico. Por favor, inténtelo de nuevo."
+            
+
+        },
+        "smsPassCC": {
+            "smsPassTitle": "Enviar tarjeta de embarque al móvil",
+            "smsPassDesc": "Agregue su información de teléfono móvil para recibir una copia de la tarjeta de embarque.",
+            "smsPassPasseger": "Pasajero",
+            "smsPassCountry": "País/región (donde está registrado el teléfono móvil)",
+            "smsPassMobile": "Número de teléfono móvil (sin el código internacional)",
+            "smsPassCountryPh": "País/región",
+            "smsPassMobilePH": "Número de teléfono móvil",
+            "smsPassCBText": "Usar este número de teléfono móvil para todos los pasajeros",
+            "smsPassCTALabel": "Enviar SMS",
+            "smsIsdFieldError": "Por favor, seleccione el país/la región donde está registrado el teléfono móvil.",
+            "smsNumFieldError": "Escriba un número de teléfono móvil válido, sin el código internacional ni caracteres especiales.",
+            "smsPassProcess": "Enviando...",
+            "confirmationPassAvailable":"Tarjeta de confirmación disponible",
+            "SMS_PASS_SUCCESS":"SMS enviado correctamente.",
+            "SMS_PASS_FAILURE":"Error durante el envío del SMS. Por favor, inténtelo de nuevo."
+            
+        },
+        "cancelChkInCC":{
+            "cancelChkInTitle": "Cancelar facturación",
+            "cancelChkInDesc": "Cancelar facturación de los siguientes pasajeros:",
+            "cancelChkInPasseger": "Pasajero",
+            "cancelChkInConfirm": "Confirmo que deseo cancelar la facturación de los pasajeros seleccionados.",
+            "cancelChkInCTALabel": "Continuar",
+            "cancelChkInProcess": "Procesando...",
+            "cannotCancelCheckIn": "No se permite cancelar la facturación a los pasajeros cuyo equipaje ha sido aceptado."
+        },
+        "checkinConfirmCTA": {
+            "subTitle": "Próximos pasos:",
+            "printPassLabel": "Descargar/Imprimir tarjeta de embarque",
+            "printPassToolTip": "Descargar/Imprimir tarjeta de embarque",
+            "passEmailLabel": "Enviar tarjeta de embarque por correo electrónico",
+            "passEmailToolTip": "Enviar tarjeta de embarque por correo electrónico",
+            "setMapLabel": "Cambiar asiento",
+            "setMapToolTip": "Cambiar asiento",
+            "cancelChkInLabel": "Cancelar facturación",
+            "cancelToolTip": "Cancelar la facturación",
+            "manageBkgLabel": "Gestionar reserva",
+            "manageBkgToolTip": "Gestionar reserva",
+            "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+            "viewBkgLabel": "Ver otras reservas",
+            "viewBkgToolTip": "Ver otras reservas",
+            "viewPassLabel": "Ver/Descargar tarjeta de embarque",
+            "passSmsLabel": "Tarjeta de embarque por SMS",
+            "passSmsToolTip": "Tarjeta de embarque por SMS",
+            "manageBtLabel": "Gestionar etiquetas de equipaje",
+            "manageBtToolTip": "Gestionar etiquetas de equipaje",
+            "addWltLabel": "Añadir a Wallet",
+            "addWltToolTip": "Añadir a Wallet",
+            "addWltDesc": "Añada su tarjeta de embarque a Wallet (dispositivos Apple).",
+            "addWltAllLabel": "Añadir todo",
+            "addWltPassenger": "Pasajero",
+            "addWltPrint": "",
+            "addWltTitle": "Añadir a Wallet",
+            "addWltProcess": "Procesando...",
+            "bookingRef": "Referencia de la reserva:",
+            "manageBkgEditor": "Gestionar reserva",
+            "title": "Gracias por facturar. Esperamos verle a bordo muy pronto.",
+            "checkinOTherFlight" : "Facture su próximo vuelo",
+            "checkinOTherPax" : "Realice la facturación de otros pasajeros" ,
+            "booking" : "Facturación"           
+        },
+        "partialCheckin": {
+            "thanks": "Organice el viaje perfecto",
+            "updateBooking": "Cambie las fechas de viaje, suba de clase su vuelo, compre exceso de equipaje y mucho más.",
+            "updateCheckin": "Reciba su tarjeta de embarque, seleccione su asiento, gestione las etiquetas de equipaje, reserve estancias de hotel, coches de alquiler y mucho más.",
+            "checkin": "Ya ha facturado?",
+            "manage": "Gestionar esta reserva",
+            "view": "Ver otras reservas",
+            "prepare": "Prepare su viaje"
+        },
+        "CANCEL_ACCEPTANCE_FAILED": "No es posible procesar la cancelación de la facturación en línea. Comuníquese con la oficina de expedición de billetes del aeropuerto a través de los números enumerados en www.qatarairways.com/offices.",
+        "CANCEL_ACCEPTANCE_OPEN_PAX_PRESENT": "Solo es posible cancelar los pasajeros facturados.",
+        "TRIP_CANCEL_TIMIE_LIMIT_REACHED": "En este momento no es posible cancelar la facturación. El plazo para la cancelación de la facturación ha expirado.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_PRESENT": "Para proceder con la solicitud, asegúrese de que todos los pasajeros seleccionados hayan facturado.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_INVALID": "Escriba una dirección de correo electrónico correcta.",
+        "MOBILE_BOARDINGPASS_PAX_MBL_INVALID": "Escriba un número de teléfono móvil válido.",
+        "SESSION_TIME_OUT": "La sesión ha expirado.",
+        "ECONOMY":"Turista",
+        "BUSINESS":"Business",
+        "FIRST":"Primera",
+        
+        "ADULT" :"Adulto",
+        "INFANT" :"Bebé",
+        "CHILD" :"Niño"
+        
+     }
+ 
+ ]

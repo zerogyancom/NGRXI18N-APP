@@ -1,0 +1,151 @@
+[
+   
+   {
+       "bannerLd": {
+           "description": "Optimieren Sie Ihr Reiseerlebnis und sparen Sie Zeit am Flughafen durch den Online Check-in. Wählen Sie Ihren Sitzplatz, drucken Sie Ihre Bordkarte aus und nutzen Sie die schnellen Gepäckabgabe-Schalter am Flughafen zur bequemen Aufgabe Ihres Gepäcks.  Vergewissern Sie sich, dass Sie die Reisepässe und Visaangaben für alle Passagiere in Ihrer Buchung zur Hand haben.",
+           "imagePath": "assests/images/bg-main-03-mobile.png",
+           "subTitle": "Buchungsnummer:",
+           "title": "Online Check-in"
+       },
+       "breadCrumbLd": {
+           "confirm": "Bestätigung",
+           "dgoods": "Gefährliche Gegenstände",
+           "flight": "Flug",
+           "passenger": "Passagier"
+       },
+       "checkinGridLd": {
+           "checkBoxName": "Auswählen",
+           "checkBoxSelectedName": "Ausgewählt",
+           "statusBlocked": "Der Online Check-in ist nicht möglich. Bitte gehen Sie zu den Check-in-Schaltern am Flughafen.",
+           "statusCheckedIn": "Eingecheckt",
+           "statusOpen": "Nicht eingecheckt",
+           "errorTitle" : "Details anzeigen"
+       },
+       "checkinLanding": {
+           "confirmDescription": "Ich habe die Einwilligung und Zustimmung aller in dieser Buchung enthaltenen Passagiere für deren Check-in. Ich bestätige, dass alle gemachten Angaben stimmen und vollständig sind und falsche Angaben dazu führen können, dass der Einstieg oder die Einreise an den Einwanderungskontrollen verweigert wird.",
+           "singleConfirmation" : "Ich bestätige, dass alle gemachten Angaben stimmen und vollständig sind und falsche Angaben dazu führen können, dass der Einstieg oder die Einreise an den Einwanderungskontrollen verweigert wird.",
+           "nextBtnName": "Einchecken",
+           "backBtn": "Zurück",
+           "passHead": "Passagier",
+           "selectAllName": "Alle auswählen",
+           "title": "Passagiere auswählen:",
+           "checkInEnabledError" : "Bitte wählen Sie den entsprechenden Passagier aus, für den Sie den Check-in durchführen möchten.",
+           "consonentError" : "Markieren Sie das Kontrollkästchen, um Ihre Zustimmung zu bestätigen. "
+       },
+       "passengerGridLd": {
+           "ticketName": "Ticket:"
+       },
+       "printPassCC": {
+           "printPassDesc": "Speichern Sie Ihre Bordkarte oder drucken Sie sie aus.",
+           "printPassDwldLabel": "Herunterladen",
+           "printPassDwnldAllLabel": "Alle herunterladen",
+           "printPassPassenger": "Passagier",
+           "printPassPrint": "Bordkarte",
+           "printPassTitle": "Bordkarte herunterladen / ausdrucken",
+           "printProcess": "Wird bearbeitet..."
+       },
+       "emailPassCC": {
+           "emailPassCBText": "Diese E-Mail-Adresse für alle Passagiere verwenden.",
+           "emailPassCTALabel": "Bordkarte senden",
+           "emailProcess": "Wird gesendet…",
+           "emailPassDesc": "Geben Sie Ihre E-Mail-Adresse ein, um eine Kopie Ihrer Bordkarte zu erhalten.",
+           "emailFieldError" : "Bitte geben Sie Ihre E-Mail-Adresse ein.",
+           "emailPassEmail": "E-Mail-Adresse",
+           "emailPassPassenger": "Passagier",
+           "emailPassTitle": "Bordkarte per E-Mail senden",
+           "emailPassInputTitle": "E-Mail-Adresse",
+           "emailPassCTALink":"https://aemuatauthor.qatarairways.com.qa/cf",
+           "confirmationPassAvailable":"Buchungsbestätigung verfügbar",
+           "EMAIL_PASS_SUCCESS":"E-Mail erfolgreich versendet.",
+           "EMAIL_PASS_FAILURE":"Beim Senden der E-Mail ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+           
+       },
+       "smsPassCC": {
+           "smsPassCBText": "Diese Mobiltelefonnummer für alle Passagiere verwenden.",
+           "smsPassTitle" : "Bordkarte auf das Mobiltelefon senden",
+           "smsPassCTALabel": "SMS senden",
+           "smsPassCountry": "Land/Region (in dem/der das Mobiltelefon angemeldet ist)",
+           "smsPassCountryPh": "Land/Region",
+           "smsPassMobile": "Mobiltelefonnummer (ohne internationale Vorwahl)",
+           "smsPassMobilePH": "Mobilnummer",
+           "smsPassPasseger": "Passagier",
+           "smsPassDesc": "Bitte geben Sie Ihre Mobiltelefon-Kontaktangaben unten an, um eine Kopie Ihrer Bordkarte zu erhalten.",
+           "smsIsdFieldError" : "Bitte wählen Sie das Land/ die Region aus, in dem/der Ihr Mobiltelefon angemeldet ist.",
+           "smsNumFieldError" : "Bitte geben Sie eine gültige Mobiltelefonnummer ein, ohne die internationale Vorwahl oder Sonderzeichen.",
+           "smsPassProcess": "Wird gesendet…",
+           "confirmationPassAvailable":"Buchungsbestätigung verfügbar",
+           "SMS_PASS_SUCCESS":"SMS erfolgreich versendet.",
+           "SMS_PASS_FAILURE":"Beim Senden der SMS ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+           
+       },
+       "cancelChkInCC":{
+           "cancelChkInTitle" : "Check-in stornieren",
+           "cancelChkInCTALabel": "Weiter",
+           "cancelChkInPasseger": "Passagier",
+           "cancelChkInDesc": "Check-in für den/die folgenden Passagier(e) stornieren:",
+           "cancelChkInProcess": "Wird bearbeitet...",
+           "cancelChkInConfirm" : "Ich bestätige, dass ich den Check-in für den/die folgenden Passagier(e) stornieren möchte.",
+           "cannotCancelCheckIn" : "Passagiere, deren Gepäck bereits akzeptiert wurde, dürfen den Check-in nicht stornieren."
+       },
+       "checkinConfirmCTA": {
+           "printPassLabel": "Bordkarte herunterladen/ausdrucken",
+           "printPassToolTip": "Bordkarte herunterladen/ausdrucken",
+           "viewPassLabel" : "Bordkarte anzeigen/herunterladen",
+           "passSmsLabel": "Bordkarte per SMS senden",
+           "passSmsToolTip": "Bordkarte per SMS senden",
+           "bookingRef": "Buchungsnummer:",
+           "subTitle": "Nächste Schritte:",
+           "title": "Vielen Dank, dass Sie den Check-in durchgeführt haben. Wir freuen uns, Sie bald an Bord begrüßen zu können.",
+           "manageBkgEditor": "Buchung verwalten",
+           "manageBkgLabel": "Buchung verwalten",
+           "manageBkgToolTip": "Buchung verwalten",
+           "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+           "manageBtLabel": "Gepäckanhänger verwalten",
+           "manageBtToolTip": "Gepäckanhänger verwalten",
+           "passEmailLabel": "Bordkarte per E-Mail senden",
+           "passEmailToolTip": "Bordkarte per E-Mail senden",
+           "viewBkgLabel": "Andere Buchungen anzeigen",
+           "viewBkgToolTip": "Andere Buchungen anzeigen",
+           "addWltLabel": "Zu Wallet hinzufügen",
+           "addWltToolTip": "Zu Wallet hinzufügen",
+           "addWltDesc": "Ihre Bordkarte zu Ihrem Wallet hinzufügen (Apple-Geräte).",
+           "addWltAllLabel": "Alle hinzufügen",
+           "addWltPassenger": "Passagier",
+           "addWltPrint": "",
+           "addWltTitle": "Zu Wallet hinzufügen",
+           "addWltProcess": "Wird bearbeitet...",
+           "cancelChkInLabel":"Check-in stornieren",
+           "cancelToolTip":"Check-in stornieren",
+           "setMapLabel":"Sitzplatz ändern",
+           "setMapToolTip":"Sitzplatz ändern",
+           "checkinOTherFlight" : "Check-in für Ihren nächsten Flug",
+           "checkinOTherPax" : "Check-in für andere Passagiere",
+           "booking" : "Check in"
+       },
+       "partialCheckin": {
+           "thanks": "Planen Sie die perfekte Reise",
+           "updateBooking": "Ändern Sie die Reiseangaben, machen Sie ein Upgrade Ihres Fluges, fügen Sie Übergepäck hinzu und mehr.",
+           "updateCheckin": "Erhalten Sie Ihre Bordkarte, wählen Sie Ihren Sitz aus, verwalten Sie Gepäckanhänger, buchen Sie Hotelübernachtungen, Mietwagen und ",
+           "checkin": "Sind Sie bereits eingecheckt?",
+           "manage": "Diese Buchung verwalten",
+           "view": "Andere Buchungen anzeigen",
+           "prepare": "Bereiten Sie Ihre Reise vor"
+       },
+       "CANCEL_ACCEPTANCE_FAILED" : "Die Stornierung des Check-ins kann nicht online bearbeitet werden. Bitte kontaktieren Sie Ihr Ticketbüro am Flughafen unter der auf www.qatarairways.com/offices aufgeführten Nummer.",
+       "CANCEL_ACCEPTANCE_OPEN_PAX_PRESENT" : "Die Stornierung kann nur für bereits eingecheckte Passagiere durchgeführt werden.",
+       "TRIP_CANCEL_TIMIE_LIMIT_REACHED" : " Die Stornierung des Check-ins kann derzeit nicht bearbeitet werden. Der Zeitraum zur Stornierung des Check-ins ist abgelaufen.",
+       "EMAIL_BOARDINGPASS_OPEN_PAX_PRESENT" : "Bitte vergewissern Sie sich, dass alle Passagiere eingecheckt sind, um Ihre Anfrage fortzusetzen.",
+       "EMAIL_BOARDINGPASS_OPEN_PAX_INVALID" : "Bitte eine gültige E-Mail-Adresse eingeben.",
+       "MOBILE_BOARDINGPASS_PAX_MBL_INVALID" : "Bitte eine gültige Mobiltelefonnummer eingeben.",
+       "SESSION_TIME_OUT" : "Sitzung unterbrochen",
+       "ECONOMY" :"Economy",
+       "BUSINESS" :"Business",
+       "FIRST" :"First",
+       "ADULT" :"Erwachsener",
+       "INFANT" :"Kleinkind",
+       "CHILD" :"Kind"
+        
+
+    }
+
+]

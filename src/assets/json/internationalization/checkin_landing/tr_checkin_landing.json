@@ -1,0 +1,150 @@
+[
+   
+    {
+        "bannerLd": {
+          "title": "Online check-in",
+          "subTitle": "Rezervasyon referansı:",
+          "description": "Online check-in yaparak daha güzel bir seyahat deneyimi yaşayın ve havaalanında zaman kazanın. Koltuğunuzu seçin, biniş kartınızı yazdırın ve bagajınızı uçağa vermek için havaalanındaki Hızlı Bagaj Teslim kontuarlarını kullanın.  Rezervasyondaki tüm yolcuların pasaport ve vize bilgilerini hazır bulundurun.",
+          "imagePath": "assests/images/bg-main-03-mobile.png"
+        },
+        "checkinLanding": {
+          "title": "Yolcuları seçin:",
+          "passHead": "Yolcu",
+          "selectAllName": "Tümünü seç",
+          "confirmDescription": "Check-in için bu rezervasyonda bulunan tüm yolcuların onayı ve rızası vardır. Verilen tüm bilgilerin doğru olduğunu onaylıyorum ve hatalı bilgi verilmesi halinde uçağa binişin veya ülkeye girişin reddedilebileceğini biliyorum. ",
+          "nextBtnName": "Check-in",
+          "backBtn": "Geri",
+          "singleConfirmation" : "Verilen tüm bilgilerin doğru olduğunu onaylıyorum ve hatalı bilgi verilmesi halinde uçağa binişin veya ülkeye girişin reddedilebileceğini biliyorum.",
+          "checkInEnabledError" : "Lütfen check-in yapmak istediğiniz yolcuyu seçin.",
+            "consonentError" : "Onayınızı teyit etmek için onay kutusunu seçin. "
+        },
+        "checkinGridLd": {
+          "checkBoxName": "Seç",
+          "checkBoxSelectedName": "Seçilen",
+            "statusCheckedIn": "Check-in yapıldı",
+          "statusOpen": "Check-in yapılmadı",
+          "statusBlocked": "Online check-in mümkün değil. Lütfen havaalanındaki check-in kontuarlarına gidin.",
+          "errorTitle": "Ayrıntıları göster"
+          
+        },
+        "breadCrumbLd": {
+          "dgoods": "Tehlikeli maddeler",
+          "confirm": "Onay ",
+          "flight": "Uçuş",
+          "passenger": "Yolcu"
+        },
+        "checkinConfirmCTA": {
+          "subTitle": "Sonraki adımlar:",
+          "printPassLabel": "Biniş kartını İndirin/Yazdırın",
+          "printPassToolTip": "Biniş kartını İndirin/Yazdırın",
+          "passEmailLabel": "Biniş kartını e-posta ile gönderin",
+          "passEmailToolTip": "Biniş kartını e-posta ile gönderin",
+          "setMapLabel": "Koltuk değiştir",
+          "setMapToolTip": "Koltuk değiştir",
+          "cancelChkInLabel": "Check-in iptal",
+          "cancelToolTip": "Check-in iptal",
+          "manageBkgLabel": "Rezervasyonu yönet",
+          "manageBkgToolTip": "Rezervasyonu yönet",
+          "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+          "viewBkgLabel": "Diğer rezervasyonları göster",
+          "viewBkgToolTip": "Diğer rezervasyonları göster",
+          "viewPassLabel": "Biniş kartını inceleyin/indirin",
+          "passSmsLabel": "Biniş kartını SMS ile gönder",
+          "passSmsToolTip": "Biniş kartını SMS ile gönder",
+          "manageBtLabel": "Bagaj etiketlerini yönet",
+          "manageBtToolTip": "Bagaj etiketlerini yönet",
+          "addWltLabel": "Cüzdana ekle",
+          "addWltToolTip": "Cüzdana ekle",
+          "addWltDesc": "Biniş kartınızı Cüzdanınıza ekleyin (Apple cihazlar).",
+          "addWltAllLabel": "Tümünü ekle",
+          "addWltPassenger": "Yolcu",
+          "addWltTitle": "Cüzdana ekle",
+          "addWltProcess": "İşlem yapılıyor...",
+          "bookingRef": "Rezervasyon referansı:",
+          "manageBkgEditor": "Rezervasyonu yönet  ",
+          "title": "Check-in yaptığınız için teşekkür ederiz. Güzel bir yolculuk geçirmenizi dileriz.",
+          "checkinOTherFlight" : "Sonraki uçuşunuz için check-in",
+          "checkinOTherPax" : "Diğer yolcular için check-in",
+          "booking": "Check-in"
+        },
+        "passengerGridLd": {
+          "ticketName": "Bilet:"
+        },
+        "printPassCC": {
+          "printPassTitle": "Biniş kartını İndirin / Yazdırın",
+          "printPassDesc": "Biniş kartınızın bir kopyasını kaydedin veya yazdırın.",
+          "printPassPassenger": "Yolcu",
+          "printPassPrint": "Biniş kartı",
+          "printPassDwldLabel": "İndir",
+          "printPassDwnldAllLabel": "Tümünü indir",
+          "printProcess": "İşlem yapılıyor..."
+        },
+        "emailPassCC": {
+          "emailPassTitle": "Biniş kartını e-posta ile gönderin",
+          "emailPassDesc": "Biniş kartınızın bir kopyasını almak için e-posta adresinizi girin.",
+          "emailPassPassenger": "Yolcu",
+          "emailPassEmail": "E-posta adresi",
+          "emailPassInputTitle": "E-posta adresi",
+          "emailPassCBText": "Tüm yolcular için bu e-posta adresini kullan.",
+          "emailPassCTALabel": "Biniş kartını gönder",
+          "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+          "emailProcess": "Gönderiliyor…",
+          "emailFieldError": "Lütfen e-posta adresinizi girin.",
+          "confirmationPassAvailable":"Onay kartı mevcut",
+          "EMAIL_PASS_SUCCESS":"E-posta başarıyla gönderildi.",
+          "EMAIL_PASS_FAILURE":"E-posta gönderilirken hata oluştu. Lütfen tekrar deneyin."
+          
+        },
+        "smsPassCC": {
+          "smsPassTitle": "Biniş kartını cep telefonuna gönder",
+          "smsPassDesc": "Biniş kartınızın bir kopyasını almak için lütfen cep telefonu bilgilerinizi aşağıya girin.",
+          "smsPassPasseger": "Yolcu",
+          "smsPassCountry": "Ülke/bölge (cep telefonunun kayıtlı olduğu)",
+          "smsPassMobile": "Cep telefonu numarası (uluslararası kod hariç)",
+          "smsPassCountryPh": "Ülke/bölge",
+          "smsPassMobilePH": "Cep telefonu",
+          "smsPassCBText": "Tüm yolcular için bu cep telefonu numarasını kullan.",
+          "smsPassCTALabel": "SMS gönder",
+          "smsIsdFieldError": "Lütfen cep telefonunuzun kayıtlı olduğu ülkeyi/bölgeyi seçin.",
+          "smsNumFieldError": "Lütfen uluslararası kod veya özel karakterler içermeyen geçerli bir cep telefonu numarası girin.",
+          "smsPassProcess": "Gönderiliyor…",
+          "confirmationPassAvailable":"Onay kartı mevcut",
+
+          "SMS_PASS_SUCCESS":"SMS başarıyla gönderildi.",
+          "SMS_PASS_FAILURE":"SMS gönderilirken hata oluştu. Lütfen tekrar deneyin."
+          
+        },
+        "cancelChkInCC": {
+          "cancelChkInTitle": "Check-in iptal",
+          "cancelChkInDesc": "Aşağıdaki yolcular için check-in iptal edilecektir:",
+          "cancelChkInPasseger": "Yolcu",
+          "cancelChkInConfirm": "Seçilen yolcu(lar) için check-in işlemini iptal etmek istediğimi onaylıyorum.",
+          "cancelChkInCTALabel": "Devam",
+          "cancelChkInProcess": "İşlem yapılıyor...",
+          "cannotCancelCheckIn": "Bagajı kabul edilmiş yolcuların check-in işlemi iptal edilemez!"
+        },
+        "partialCheckin": {
+          "thanks": "Mükemmel yolculuğu planlayın",
+          "updateBooking": "Seyahat tarihlerini değiştirin, uçuş sınıfınızı yükseltin, fazla bagaj satın alın ve daha fazlasını yapın.",
+          "updateCheckin": "Biniş kartınızı alın, koltuğunuzu seçin, bagaj etiketlerini yönetin, otel rezervasyonu yapın, araç kiralayın ve daha fazlasını yapın.",
+          "checkin": "Zaten check-in yaptınız mı?",
+          "manage": "Bu rezervasyonu yönet",
+          "view": "Diğer rezervasyonları göster",
+          "prepare": "Yolculuğunuza hazırlanın"
+      },
+        "CANCEL_ACCEPTANCE_FAILED": "Check-in iptal işleminiz internet üzerinden gerçekleştirilemiyor. Lütfen www.qatarairways.com/offices adresindeki listede yer alan numaradan havaalanı bilet ofisi ile iletişime geçin.",
+        "CANCEL_ACCEPTANCE_OPEN_PAX_PRESENT": "İptal işlemi sadece daha önce check-in yapılmış yolcular için gerçekleştirilebilir.",
+        "TRIP_CANCEL_TIMIE_LIMIT_REACHED": " Artık check-in iptal işlemi yapılamaz. Check-in iptal penceresi kapandı.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_PRESENT": "Talebinize devam etmek için lütfen seçilen tüm yolcular için check-in yapılmasını sağlayın.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_INVALID": "Lütfen geçerli bir e-posta adresi girin.",
+        "MOBILE_BOARDINGPASS_PAX_MBL_INVALID": "Lütfen geçerli bir cep telefonu numarası girin.",
+        "SESSION_TIME_OUT": "Oturum zaman aşımı",
+        "ECONOMY" :"Economy",
+        "BUSINESS" :"Business",
+        "FIRST" :"First",
+        "ADULT" :"Yetişkin",
+        "INFANT" :"Bebek",
+        "CHILD" :"Çocuk"
+        
+        }
+]

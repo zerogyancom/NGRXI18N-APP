@@ -1,0 +1,149 @@
+[
+  {
+    "bannerLd": {
+      "title": "Enregistrement en ligne",
+      "subTitle": "Référence de réservation :",
+      "description": "Simplifiez votre voyage et gagnez du temps à l'aéroport en vous enregistrant en ligne. Choisissez votre siège, imprimez votre carte d'embarquement et utilisez les comptoirs de dépôt rapide des bagages à l'aéroport pour les enregistrer facilement.  Assurez-vous de disposer des passeports et des visas de tous les passagers figurant sur votre réservation.",
+      "imagePath": "assests/images/bg-main-03-mobile.png"
+    },
+    "checkinLanding": {
+      "title": "Sélectionner les passagers :",
+      "passHead": "Passager",
+      "selectAllName": "Sélectionner tout",
+      "confirmDescription": "J'ai reçu l'accord et le consentement de tous les passagers figurant sur cette réservation pour procéder à leur enregistrement. Je confirme l'exactitude de toutes les informations fournies et je comprends que des informations incorrectes peuvent entraîner un refus d'embarquement ou un refus d'entrée aux points de contrôle des services de l'immigration. ",
+      "nextBtnName": "Enregistrement",
+      "backBtn": "Retour",
+      "checkInEnabledError" : "Veuillez sélectionner le passager que vous souhaitez enregistrer.",
+      "singleConfirmation" : "Je confirme l'exactitude de toutes les informations fournies et je comprends que des informations incorrectes peuvent entraîner un refus d'embarquement ou un refus d'entrée aux points de contrôle des services de l'immigration.",
+      "consonentError" : "Cochez la case pour confirmer votre accord. "
+    },
+    "checkinGridLd": {
+      "checkBoxName": "Sélectionner",
+      "checkBoxSelectedName": "Sélectionné",
+      "statusCheckedIn": "Enregistré",
+      "statusOpen": "Non enregistré",
+      "statusBlocked": "Impossible de procéder à l'enregistrement en ligne. Veuillez vous adresser aux comptoirs d'enregistrement à l'aéroport.",
+      "errorTitle": "Afficher le détail"
+    },
+    "partialCheckin": {
+      "thanks": "Planifiez le voyage idéal",
+      "updateBooking": "Modifiez vos dates de voyage, surclassez votre vol, achetez une franchise de bagage supplémentaire et bien plus encore.",
+      "updateCheckin": "Recevez votre carte d'embarquement, sélectionnez votre siège, gérez vos étiquettes bagages, réservez votre séjour à l'hôtel, votre location de voiture et bien plus encore.",
+      "checkin": "Déjà enregistré ?",
+      "manage": "Gérer cette réservation",
+      "view": "Afficher d'autres réservations",
+      "prepare": "Préparez votre voyage"
+  },
+    "breadCrumbLd": {
+      "dgoods": "Articles dangereux",
+      "confirm": "Confirmation ",
+      "flight": "Vol",
+      "passenger": "Passager"
+    },
+    "checkinConfirmCTA": {
+      "subTitle": "Étapes suivantes :",
+      "printPassLabel": "Télécharger / Imprimer la carte d'embarquement",
+      "printPassToolTip": "Télécharger / Imprimer la carte d'embarquement",
+      "passEmailLabel": "Envoyer la carte d'embarquement par e-mail",
+      "passEmailToolTip": "Envoyer la carte d'embarquement par e-mail",
+      "setMapLabel": "Changer de siège",
+      "setMapToolTip": "Changer de siège",
+      "cancelChkInLabel": "Annuler l'enregistrement",
+      "cancelToolTip": "Annuler l'enregistrement",
+      "manageBkgLabel": "Gérer la réservation",
+      "manageBkgToolTip": "Gérer la réservation",
+      "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+      "viewBkgLabel": "Afficher d'autres réservations",
+      "viewBkgToolTip": "Afficher d'autres réservations",
+      "viewPassLabel": "Afficher/Télécharger la carte d'embarquement",
+      "passSmsLabel": "Envoyer la carte d'embarquement par SMS",
+      "passSmsToolTip": "Envoyer la carte d'embarquement par SMS",
+      "manageBtLabel": "Gérer les étiquettes des bagages",
+      "manageBtToolTip": "Gérer les étiquettes des bagages",
+      "addWltLabel": "Ajouter à Wallet",
+      "addWltToolTip": "Ajouter à Wallet",
+      "addWltDesc": "Ajoutez votre carte d'embarquement à votre Wallet (appareils Apple).",
+      "addWltAllLabel": "Ajouter tout",
+      "addWltPassenger": "Passager",
+      "addWltTitle": "Ajouter à Wallet",
+      "addWltProcess": "Traitement en cours…",
+      "bookingRef": "Référence de réservation :",
+      "manageBkgEditor": "Gérer ma réservation  ",
+      "title": "Merci d'avoir procédé à votre enregistrement. Nous avons hâte de vous accueillir à bord.",
+      "checkinOTherFlight" : "Enregistrez-vous pour votre prochain vol",
+      "checkinOTherPax" : "Procéder à l'enregistrement pour d'autres passagers",
+      "booking" : "Enregistrement"
+    },
+    "passengerGridLd": {
+      "ticketName": "Billet :"
+    },
+    "printPassCC": {
+      "printPassTitle": "Télécharger / Imprimer la carte d'embarquement",
+      "printPassDesc": "Sauvegardez une copie de votre carte d'embarquement ou imprimez-la.",
+      "printPassPassenger": "Passager",
+      "printPassPrint": "Carte d'embarquement",
+      "printPassDwldLabel": "Télécharger",
+      "printPassDwnldAllLabel": "Télécharger tout",
+      "printProcess": "Traitement en cours…"
+    },
+    "emailPassCC": {
+      "emailPassTitle": "Envoyer la carte d'embarquement par e-mail",
+      "emailPassDesc": "Saisissez votre adresse e-mail pour recevoir une copie de votre carte d'embarquement.",
+      "emailPassPassenger": "Passager",
+      "emailPassEmail": "Adresse e-mail",
+      "emailPassInputTitle": "Adresse e-mail",
+      "emailPassCBText": "Utiliser cette adresse e-mail pour tous les passagers.",
+      "emailPassCTALabel": "Envoyer la carte d'embarquement",
+      "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+      "emailProcess": "Envoi en cours…",
+      "emailFieldError": "Veuillez saisir votre adresse e-mail.",
+      "confirmationPassAvailable":"Bon de confirmation disponible",
+      "EMAIL_PASS_SUCCESS":"E-mail envoyé avec succès.",
+      "EMAIL_PASS_FAILURE":"Une erreur s'est produite pendant l'envoi de l'e-mail. Veuillez réessayer."
+      
+    },
+    "smsPassCC": {
+      "smsPassTitle": "Envoyer la carte d'embarquement sur un mobile",
+      "smsPassDesc": "Veuillez fournir ci-dessous les données relatives à votre numéro de mobile pour recevoir une copie de votre carte d'embarquement.",
+      "smsPassPasseger": "Passager",
+      "smsPassCountry": "Pays / région (dans lequel le mobile est enregistré)",
+      "smsPassMobile": "Numéro de mobile (sans le préfixe international)",
+      "smsPassCountryPh": "Pays / région",
+      "smsPassMobilePH": "Numéro de mobile",
+      "smsPassCBText": "Utiliser ce numéro pour tous les passagers.",
+      "smsPassCTALabel": "Envoyer le SMS",
+      "smsIsdFieldError": "Veuillez sélectionner le pays / la région dans lequel votre mobile est enregistré.",
+      "smsNumFieldError": "Veuillez saisir un numéro de mobile valide, sans le préfixe international, ni caractères spéciaux.",
+      "smsPassProcess": "Envoi en cours…",
+      "confirmationPassAvailable":"Bon de confirmation disponible",
+      "SMS_PASS_SUCCESS":"SMS envoyé avec succès.",
+      "SMS_PASS_FAILURE":"Une erreur s'est produite pendant l'envoi du SMS. Veuillez réessayer."
+      
+    },
+    "cancelChkInCC": {
+      "cancelChkInTitle": "Annuler l'enregistrement",
+      "cancelChkInDesc": "Annuler l'enregistrement pour le(s) passager(s) suivant(s) :",
+      "cancelChkInPasseger": "Passager",
+      "cancelChkInConfirm": "Je confirme que je souhaiterais annuler l'enregistrement pour le(s) passager(s) sélectionné(s).",
+      "cancelChkInCTALabel": "Continuer",
+      "cancelChkInProcess": "Traitement en cours…",
+      "cannotCancelCheckIn": "Les passagers dont les bagages ont été acceptés ne sont pas autorisés à annuler leur enregistrement."
+    },
+    "CANCEL_ACCEPTANCE_FAILED": "L'annulation de l'enregistrement ne peut pas être traitée en ligne. Veuillez contacter votre billetterie à l'aéroport, au numéro figurant sur la page : www.qatarairways.com/offices.",
+    "CANCEL_ACCEPTANCE_OPEN_PAX_PRESENT": "L'annulation ne peut concerner que les passagers déjà enregistrés.",
+    "TRIP_CANCEL_TIMIE_LIMIT_REACHED": " Impossible de traiter la demande d'annulation de l'enregistrement. Le délai limite pour annuler l'enregistrement a expiré.",
+    "EMAIL_BOARDINGPASS_OPEN_PAX_PRESENT": "Veuillez vous assurer que tous les passagers sélectionnés sont bien enregistrés afin de poursuivre votre demande.",
+    "EMAIL_BOARDINGPASS_OPEN_PAX_INVALID": "Veuillez saisir une adresse e-mail valide.",
+    "MOBILE_BOARDINGPASS_PAX_MBL_INVALID": "Veuillez saisir un numéro de téléphone mobile valide.",
+    "SESSION_TIME_OUT": "Session expirée.",
+    "ECONOMY":"Classe Economique",
+    "BUSINESS":"Classe Affaires",
+    "FIRST":"Première Classe",
+    
+    "ADULT" :"Adulte",
+    "INFANT" :"Bébé",
+    "CHILD" :"Enfant"
+   
+  }
+]  
+  

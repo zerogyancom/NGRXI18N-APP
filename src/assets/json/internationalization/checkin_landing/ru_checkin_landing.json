@@ -1,0 +1,145 @@
+[
+   
+    {
+        "bannerLd": {
+          "title": "Онлайн-регистрация",
+          "subTitle": "Номер бронирования:",
+          "description": "Пройдите онлайн-регистрацию на рейс и сэкономьте время ожидания в аэропорту. Во время регистрации вы сможете выбрать места на борту и сразу распечатать посадочный талон. А в аэропорту просто воспользуйтесь стойками быстрой регистрации багажа. Перед началом онлайн-регистрации подготовьте паспорта и визы всех пассажиров в вашем бронировании.",
+          "imagePath": "assests/images/bg-main-03-mobile.png"
+        },
+        "checkinLanding": {
+          "title": "Выберите пассажиров:",
+          "passHead": "Пассажир",
+          "selectAllName": "Выберите всех",
+          "confirmDescription": "У меня есть согласие на регистрацию от всех пассажиров, включенных в это бронирование. Я подтверждаю, что вся предоставленная информация верна и понимаю, что любая неверная информация может привести к отказу в посадке на самолет или прохождению иммиграционного контроля. ",
+          "nextBtnName": "Регистрация",
+          "backBtn": "Назад",
+          "checkInEnabledError" : "Выберите имя пассажира для регистрации.",
+          "consonentError": "Отметьте флажок, чтобы подтвердить регистрацию",
+          "singleConfirmation" : "Я подтверждаю, что вся предоставленная информация верна, и понимаю, что любая неверная информация может привести к отказу в посадке на самолет или прохождении иммиграционного контроля."
+        },
+        "checkinGridLd": {
+          "checkBoxName": "Выбрать",
+          "statusCheckedIn": "Зарегистрирован",
+          "statusOpen": "Не зарегистрирован",
+          "statusBlocked": "Онлайн-регистрация невозможна. Пройдите к стойкам регистрации в аэропорту.",
+          "errorTitle": "Просмотреть подробную информацию",
+          "checkBoxSelectedName": "Выбрано"
+          
+
+        },
+        "breadCrumbLd": {
+          "dgoods": "Опасные грузы",
+          "confirm": "Подтверждение ",
+          "flight": "Рейс",
+          "passenger": "Пассажир"
+        },
+        "checkinConfirmCTA": {
+          "subTitle": "Следующие действия:",
+          "printPassLabel": "Скачать/распечатать",
+          "printPassToolTip": "Скачать/распечатать",
+          "passEmailLabel": "Отправить на email",
+          "passEmailToolTip": "Отправить на email",
+          "setMapLabel": "Изменить место",
+          "setMapToolTip": "Изменить место",
+          "cancelChkInLabel": "Отменить регистрацию",
+          "cancelToolTip": "Отменить регистрацию",
+          "manageBkgLabel": "Управление бронированием",
+          "manageBkgToolTip": "Управление бронированием",
+          "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+          "viewBkgLabel": "Другое бронирование",
+          "viewBkgToolTip": "Другое бронирование",
+          "viewPassLabel": "Открыть/скачать посадочный талон",
+          "passSmsLabel": "Отправить SMS-сообщением",
+          "passSmsToolTip": "Отправить SMS-сообщением",
+          "manageBtLabel": "Изменить багажные бирки",
+          "manageBtToolTip": "Изменить багажные бирки",
+          "addWltLabel": "Добавить в Wallet",
+          "addWltToolTip": "Добавить в Wallet",
+          "addWltDesc": "Добавьте посадочный талон в Wallet (устройства Apple).",
+          "addWltAllLabel": "Добавить все",
+          "addWltPassenger": "Пассажир",
+          "addWltTitle": "Добавить в Wallet",
+          "addWltProcess": "Идет процесс обработки...",
+          "bookingRef": "Номер бронирования:",
+          "manageBkgEditor": "Внести изменения в бронь  ",
+          "title": "Благодарим за регистрацию. До встречи на борту.",
+          "checkinOTherFlight" : "Зарегистрируйтесь на следующий рейс",
+          "checkinOTherPax" : "Зарегистрируйте других пассажиров",
+          "booking": "Регистрация"
+        },
+        "passengerGridLd": {
+          "ticketName": "Билет:"
+        },
+        "printPassCC": {
+           "confirmationPassAvailable": "Подтверждающий талон доступен",
+          "printPassTitle": "Скачать/распечатать посадочный талон",
+          "printPassDesc": "Сохраните или распечатайте свой посадочный талон.",
+          "printPassPassenger": "Пассажир",
+          "printPassPrint": "Посадочный талон",
+          "printPassDwldLabel": "Скачать",
+          "printPassDwnldAllLabel": "Скачать все",
+          "printProcess": "Идет процесс обработки..."
+        },
+        "emailPassCC": {
+          "emailPassTitle": "Отправить посадочный талон на эл.почту",
+          "emailPassDesc": "Введите адрес электронной почты, чтобы получить посадочный талон.",
+          "emailPassPassenger": "Пассажир",
+          "emailPassEmail": "Адрес эл.почты",
+          "emailPassInputTitle": "Адрес эл.почты",
+          "emailPassCBText": "использовать этот адрес для всех пассажиров",
+          "emailPassCTALabel": "Отправить",
+          "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+          "emailProcess": "Идет процесс отправки…",
+          "emailFieldError": "Введите свой адрес электронной почты.",
+          "confirmationPassAvailable":"Подтверждающий талон доступен",
+          "EMAIL_PASS_SUCCESS":"Электронное письмо отправлено.",
+          "EMAIL_PASS_FAILURE":"При отправлении электронного письма произошла ошибка. Повторите попытку."
+          
+        },
+        "smsPassCC": {
+          "smsPassTitle": "Отправить посадочный талон на мобильный телефон",
+          "smsPassDesc": "Введите номер своего мобильного телефона, чтобы получить посадочный талон.",
+          "smsPassPasseger": "Пассажир",
+          "smsPassCountry": "Страна, в которой зарегистрирован номер телефона",
+          "smsPassMobile": "Номер телефона (кроме кода страны)",
+          "smsPassCountryPh": "Страна",
+          "smsPassMobilePH": "Номер телефона",
+          "smsPassCBText": "использовать этот номер для всех пассажиров",
+          "smsPassCTALabel": "Отправить SMS",
+          "smsIsdFieldError": "Выберите страну, в которой зарегистрирован ваш мобильный телефон.",
+          "smsNumFieldError": "Введите действительный номер мобильного телефона за исключением международного кода или специальных знаков.",
+          "smsPassProcess": "Идет процесс отправки…",
+          "confirmationPassAvailable":"Подтверждающий талон доступен",
+          "SMS_PASS_SUCCESS":"SMS отправлено.",
+          "SMS_PASS_FAILURE":"При отправлении SMS произошла ошибка. Повторите попытку."
+          
+        },
+        "cancelChkInCC": {
+          "cancelChkInTitle": "Отменить регистрацию",
+          "cancelChkInPasseger": "Пассажир",
+          "cancelChkInConfirm": "Я подтверждаю, что желаю отменить регистрацию для выбранного пассажира(ов).",
+          "cancelChkInCTALabel": "Продолжить",
+          "cancelChkInProcess": "Идет процесс обработки...",
+          "cannotCancelCheckIn": "Для пассажиров, сдавших багаж, регистрация не отменяется.",
+          "cancelChkInDesc": "Отменить регистрацию для следующего пассажира(ов):"
+        },
+        "partialCheckin": {
+            "thanks": "Plan the perfect journey",
+            "updateBooking": "Change travel dates, upgrade your flight, purchase excess baggage and more.",
+            "updateCheckin": "Receive your boarding pass, select your seat, manage baggage tags, book hotel stays, car rentals and more.",
+            "checkin": "Already checked-in?",
+            "manage": "Manage this booking",
+            "view": "View other bookings",
+            "prepare": "Prepare for your trip"
+        },
+        
+        "ECONOMY":"Экономический класс",
+        "BUSINESS":"Бизнес-класс",
+        "FIRST":"Первый класс",        
+      "ADULT" :"Взрослый",
+      "INFANT" :"Младенец",
+      "CHILD" :"Ребенок"
+      
+   }
+]

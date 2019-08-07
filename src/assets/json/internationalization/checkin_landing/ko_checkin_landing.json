@@ -1,0 +1,150 @@
+[
+   
+    {
+        "bannerLd": {
+            "description": "온라인으로 체크인하여 더 나은 여행을 경험하고 공항에서 시간을 절약하십시오. 좌석을 선택한 후 탑승권을 출력해 공항에 있는 온라인수속 전용 수하물 카운터에서 수하물을 간편하게 체크인하십시오.  예약에 포함된 모든 승객의 여권과 비자 정보를 준비하십시오.",
+            "imagePath": "assests/images/bg-main-03-mobile.png",
+            "subTitle": "예약 번호:",
+            "title": "온라인 체크인"
+        },
+        "breadCrumbLd": {
+           "dgoods": "위험 물질",
+            "confirm": "확인 ",
+            "flight": "항공편",
+            "passenger": "승객"
+        },
+        "checkinGridLd": {
+            "checkBoxName": "선택",
+            "checkBoxSelectedName": "선택 완료",
+            "statusBlocked": "온라인 체크인이 불가합니다. 공항 체크인 카운터에서 체크인하십시오.",
+            "statusCheckedIn": "체크인 완료",
+            "statusOpen": "체크인 미완료",
+            "errorTitle" : "상세내역 보기"
+        },
+        "checkinLanding": {
+            "confirmDescription": "본인은 이 예약에 포함된 모든 승객의 체크인 동의 및 허가를 받았습니다. 제공한 모든 정보는 정확하며, 올바르지 않은 정보는 탑승 거부 또는 이민국 심사대에서의 입국 거부를 초래할 수 있다는 것을 확인합니다. ",
+            "singleConfirmation" : "제공한 모든 정보는 정확하며, 올바르지 않은 정보는 탑승 거부 또는 이민국 심사대에서의 입국 거부를 초래할 수 있다는 것을 확인합니다.",
+            "nextBtnName": "체크인",
+            "backBtn": "뒤로",
+            "passHead": "승객",
+            "selectAllName": "전체 선",
+            "title": "승객 선택:",
+            "checkInEnabledError" : "체크인 할 승객을 선택하십시오.",
+            "consonentError" : "체크상자를 선택해 귀하의 동의를 확인하십시오. "
+        },
+        "passengerGridLd": {
+            "ticketName": "티켓:"
+        },
+        "printPassCC": {
+            "printPassTitle": "탑승권 다운로드/인쇄",
+            "printPassDesc": "탑승권 사본을 저장하거나 인쇄하십시오.",
+            "printPassPassenger": "승객",
+            "printPassPrint": "탑승권",
+            "printPassDwldLabel": "다운로드",
+            "printPassDwnldAllLabel": "전체 다운로드",
+            "printProcess": "처리 중입니다…"
+        },
+        "emailPassCC": {
+            "emailPassTitle": "탑승권 이메일 전송",
+            "emailPassDesc": "탑승권을 수신할 이메일 주소를 입력하십시오.",
+            "emailPassPassenger": "승객",
+            "emailPassEmail": "이메일 주소",
+            "emailPassInputTitle": "이메일 주소",
+            "emailPassCBText": "모든 승객에 대해 이 이메일 주소를 사용합니다",
+            "emailPassCTALabel": "탑승권 전송",
+            "emailPassCTALink": "https://aemuatauthor.qatarairways.com.qa/cf",
+            "emailProcess": "전송 중입니다...",
+            "emailFieldError": "이메일 주소를 입력하십시오.",
+            "confirmationPassAvailable":"확인서 발급가능",
+            "EMAIL_PASS_SUCCESS":"이메일이 전송되었습니다.",
+            "EMAIL_PASS_FAILURE":"이메일 전송 도중 오류가 발생했습니다. 다시 시도하십시오."
+            
+        },
+        "smsPassCC": {
+            "smsPassTitle": "탑승권을 휴대폰으로 전송",
+            "smsPassDesc": "탑승권 사본을 전송받으려면 아래에 고객님의 휴대폰 번호를 입력하십시오.",
+            "smsPassPasseger": "승객",
+            "smsPassCountry": "국가/지역 (휴대폰이 등록된 국가)",
+            "smsPassMobile": "휴대폰 번호(국가 코드 제외)",
+            "smsPassCountryPh": "국가/지역",
+            "smsPassMobilePH": "휴대폰 번호",
+            "smsPassCBText": "승객 전체에 대해 이 휴대폰 번호를 사용합니다.",
+            "smsPassCTALabel": "SMS 전송",
+            "smsIsdFieldError": "대폰이 등록되어 있는 국가/지역을 선택하십시오.",
+            "smsNumFieldError": "국가 코드 또는 특수 문자를 제외한 휴대폰 번호를 올바르게 입력하십시오.",
+            "smsPassProcess": "전송 중입니다...",
+            "confirmationPassAvailable":"확인서 발급가능",
+            "SMS_PASS_SUCCESS":"문자 메시지가 전송되었습니다.",
+            "SMS_PASS_FAILURE":"문자 메시지 전송 도중 오류가 발생했습니다. 다시 시도하십시오."
+            
+        },
+        "cancelChkInCC":{
+            "cancelChkInTitle": "체크인 취소",
+            "cancelChkInDesc": "다음 승객에 대한 체크인을 취소합니다:",
+            "cancelChkInPasseger": "승객",
+            "cancelChkInConfirm": "해당 승객에 대한 체크인을 취소합니다.",
+            "cancelChkInCTALabel": "계속",
+            "cancelChkInProcess": "처리 중입니다…",
+            "cannotCancelCheckIn": "수화물이 접수된 승객은 체크인을 취소할 수 없습니다."            
+        },
+        "checkinConfirmCTA": {
+            "subTitle": "다음 단계:",
+            "printPassLabel": "탑승권 다운로드/인쇄",
+            "printPassToolTip": "탑승권 다운로드/인쇄",
+            "passEmailLabel": "탑승권 이메일 전송",
+            "passEmailToolTip": "탑승권 이메일 전송",
+            "setMapLabel": "좌석 변경",
+            "setMapToolTip": "좌석 변경",
+            "cancelChkInLabel": "체크인 취소",
+            "cancelToolTip": "체크인 취소",
+            "manageBkgLabel": "예약 관리",
+            "manageBkgToolTip": "예약 관리",
+            "manageBkgLink": "https://nspsit.qatarairways.com.qa/nsp/views/search.xhtml",
+            "viewBkgLabel": "다른 예약 보기",
+            "viewBkgToolTip": "다른 예약 보기",
+            "viewPassLabel": "탑승권 보기/다운로드",
+            "passSmsLabel": "SMS 탑승권",
+            "passSmsToolTip": "SMS 탑승권",
+            "manageBtLabel": "수하물 태그 관리",
+            "manageBtToolTip": "수하물 태그 관리",
+            "addWltLabel": "지갑에 추가",
+            "addWltToolTip": "지갑에 추가",
+            "addWltDesc": "탑승권을 지갑(애플 기기)에 추가.",
+            "addWltAllLabel": "전체 추가",
+            "addWltPassenger": "승객",
+            "addWltPrint": "",
+            "addWltTitle": "지갑에 추가",
+            "addWltProcess": "처리 중입니다…",
+            "bookingRef": "예약 번호:",
+            "manageBkgEditor": "예약 관리",
+            "title": "체크인해주셔서 감사합니다. 귀하를 모시게 되길 바랍니다.",
+            "checkinOTherFlight" : "다음 항공편에 대한 체크인",
+            "checkinOTherPax" : "다른 승객에 대한 체크인",
+            "booking": "체크인"
+        },
+        "partialCheckin": {
+            "thanks": "완벽한 여행을 계획하십시오",
+            "updateBooking": "여행 날짜 변경, 항공편 업그레이드, 초과 수하물 구매 등 다양한 서비스를 이용하십시오.",
+            "updateCheckin": "탑승권 수령, 좌석 선택, 수하물 태그 관리, 호텔, 렌터카 예약 등 다양한 서비스를 이용하십시오.",
+            "checkin": "이미 체크인하셨습니까?",
+            "manage": "이 예약 관리",
+            "view": "다른 예약 보기",
+            "prepare": "여행 준비하기"
+        },
+        "CANCEL_ACCEPTANCE_FAILED": "체크인 취소는 온라인으로 처리할 수 없습니다. www.qatarairways.com/offices에 수록된 번호를 참조하여 공항 발권 사무소에 연락하시기 바랍니다.",
+        "CANCEL_ACCEPTANCE_OPEN_PAX_PRESENT": "체크인한 승객만 취소 처리할 수 있습니다.",
+        "TRIP_CANCEL_TIMIE_LIMIT_REACHED": " 지금은 체크인 취소를 처리할 수 없습니다. 체크인 취소창이 만료되었습니다.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_PRESENT": "요청을 진행하려면 선택한 모든 승객의 체크인이 완료되어야 합니다.",
+        "EMAIL_BOARDINGPASS_OPEN_PAX_INVALID": "이메일 주소를 정확히 입력하십시오.",
+        "MOBILE_BOARDINGPASS_PAX_MBL_INVALID": "유효한 휴대폰 번호를 입력하십시오.",
+        "SESSION_TIME_OUT": "세션 만료"      ,
+        "ECONOMY":"이코노미",
+        "BUSINESS":"비즈니스",
+        "FIRST":"퍼스트",
+        
+        "ADULT" :"성인",
+        "INFANT" :"유아",
+        "CHILD" :"어린이" 
+         
+    }
+]
